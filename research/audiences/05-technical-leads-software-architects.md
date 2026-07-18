@@ -123,7 +123,7 @@ LeadDev's 2024 survey of 1,100+ engineering leaders reports simultaneous pressur
 
 ## Habits and inertia
 
-Existing language standards, deployment platforms, libraries, CI/CD, observability, identity systems, database expertise, and hiring pipelines strongly shape the feasible set. Teams reuse decisions they already know; a 2018 case study found architecture-decision reuse frequent but ad hoc and confined by architects' existing knowledge ([van Heesch et al., October 2018](https://www.sciencedirect.com/science/article/pii/S0164121218301110)). **Direct evidence; Medium confidence.**
+Existing language standards, deployment platforms, libraries, CI/CD, observability, identity systems, database expertise, and hiring pipelines strongly shape the feasible set. Teams reuse decisions they already know; a 2018 case study found architecture-decision reuse frequent but ad hoc and confined by architects' existing knowledge ([Manteuffel, Avgeriou &amp; Hamberg, *Journal of Systems and Software*, October 2018](https://www.sciencedirect.com/science/article/pii/S0164121218301110)). **Direct evidence; Medium confidence.**
 
 For an installed Django estate, accumulated models, migrations, admin workflows, package choices, runbooks, and staff expertise create rational switching costs. Familiarity can also conceal risk: unsupported versions, inherited conventions, or “Django cannot/can scale” beliefs may go untested. For greenfield work, a company-approved stack can win by default because exception review costs time. Inertia is therefore both a useful risk control and a possible source of architectural debt.
 
