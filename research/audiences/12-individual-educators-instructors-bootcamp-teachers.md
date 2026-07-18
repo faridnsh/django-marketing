@@ -120,7 +120,7 @@ During class, common mechanisms include short explanation or live coding, worked
 - Staying in Python can let a cohort reuse prior language knowledge while learning HTTP, persistence, templates, and deployment. CS50 Web's ordering demonstrates this curriculum choice. **[Direct practice plus inference; Medium confidence.]**
 - Generated project structure, migrations, ORM, admin, forms, and authentication can make consequential web concepts visible within a bounded course. They can also hide mechanisms or add vocabulary, so the pull is conditional. **[Inference; High confidence on the tradeoff.]**
 - A versioned official tutorial, MDN module, CS50 course, and Django Girls tutorial provide multiple reusable starting points and formats. **[Direct factual evidence; High confidence.]**
-- Django Girls demonstrates a beginner-oriented instructional ecosystem: open reusable material, coach guidance, pre-installation, translation, a one-day scope, deployment, and extensions. Its reported reach—1,192 past events and 26,341 attendees on the resources page—is evidence of use, not learning effectiveness. **[Direct evidence; High confidence on use.]**
+- Django Girls demonstrates a beginner-oriented instructional ecosystem: open reusable material, coach guidance, pre-installation, translation, a one-day scope, deployment, and extensions. Its reported reach—1,194 past events and 26,441 attendees on the resources page—is evidence of use, not learning effectiveness. **[Direct evidence; High confidence on use.]**
 - Long-term-support releases can reduce how often a course must absorb breaking changes. **[Direct factual evidence plus inference; High confidence.]**
 
 ## Anxieties
