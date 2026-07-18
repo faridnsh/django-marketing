@@ -216,3 +216,33 @@ The citation base is adequate for hypothesis formation, not causal validation. A
 5. Replaced two dead Give.org infographic URLs in report 16 with a dated Give.org accountability summary and the full 2024 report, updating source-format labels without changing the findings.
 6. Corrected report 13's channel and trusted-format labels to separate direct reported incidence from inferred discovery, synthesis, and relationship roles; reduced the composite confidence from High to Medium.
 7. Strengthened the cross-audience synthesis method note so repeated use of the same source is not mistaken for independent triangulation and normalized job wording is not mistaken for direct participant language.
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f7589-343f-74b3-a65e-b423e48d9776`
+- Log: `rollout-2026-07-18T16-02-33-019f7589-343f-74b3-a65e-b423e48d9776.jsonl`
+- This document: `add, update`
+- Search queries:
+  - `"Social Barriers Faced by Newcomers Placing Their First Contribution" PDF`
+  - `"Software selection in large-scale software engineering" Badampudi DOI`
+  - `site:give.org "Public Eye on Charitable Accountability" 2024 infographic`
+  - `site:give.org 2024 "Impact" donor trust special report infographic`
+  - `site:give.org/donor-trust-report "Public Eye on Charitable Accountability"`
+  - `site:give.org/news 2024 accountability donor trust how charity spends money truthful accurate 76% 73%`
+- Website domains:
+  - `creativecommons.org`
+  - `ctreude.ca`
+  - `dblp.org`
+  - `doi.org`
+  - `give.org`
+  - `igor.pro.br`
+  - `isr.uci.edu`
+  - `link.springer.com`
+  - `repositorio.usp.br`
+  - `researchgate.net`
+  - `sciencedirect.com`
+
+<!-- RESEARCH PROVENANCE: END -->

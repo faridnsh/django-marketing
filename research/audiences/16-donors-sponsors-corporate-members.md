@@ -332,3 +332,227 @@ These are audience progress actions, not campaign or asset recommendations.
 12. How do privacy, anonymity, tax treatment, payment methods, currency, and regional trust affect conversion and retention outside the United States?
 13. How do maintainers and the wider Django community perceive corporate benefits, meetings, recognition, and member voting rights?
 14. Which funded outcomes can be measured credibly at program level, and which should remain qualitative or contextual to avoid false attribution?
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f7566-c446-7453-a456-e7d55c68a412`
+- Log: `rollout-2026-07-18T15-24-57-019f7566-c446-7453-a456-e7d55c68a412.jsonl`
+- This document: `add, update`
+- Search queries:
+  - `"Django 2024 Annual Impact Report"`
+  - `"Rules of Engagement: Why and How Companies Participate in OSS" authors`
+  - `"What's new with GitHub Sponsors" Jessica Lord date`
+  - `2024 Open Source Software Funding Report percentage labor direct funding organizations $7.7 billion findings`
+  - `Apache Software Foundation sponsorship no influence governance sponsor benefits`
+  - `Django Software Foundation 2024 annual report finances pdf`
+  - `Django Software Foundation 2025 board minutes budget grants fellowship annual report`
+  - `Django Software Foundation corporate member sponsor membership benefits fundraising`
+  - `Eclipse Foundation membership benefits governance voting fees corporate member`
+  - `Give.org Donor Trust Report 2024 transparency effectiveness PDF`
+  - `Linux Foundation project membership agreement member benefits governance voting sponsorship distinction`
+  - `Open Source Maintainers Report 2023 Linux Foundation funding sponsorship findings`
+  - `Sovereign Tech Agency survey 500 maintainers 2025 report funding unpaid open source maintainers`
+  - `academic donor behavior public goods warm glow impact information charitable giving experiment`
+  - `corporate open source sponsorship decision procurement finance legal approval research`
+  - `individual donor behavior nonprofit trust transparency impact reporting survey 2024 report`
+  - `opensourcefundingsurvey2024 report labor funding 86% direct contributions`
+  - `site:afpglobal.org Fundraising Effectiveness Project 2024 donor retention report`
+  - `site:chaoss.community corporate open source funding sponsorship metrics report`
+  - `site:django-foundation.github.io "Annual Report" Django Software Foundation`
+  - `site:django-foundation.github.io annual report 2024 financials Django Software Foundation`
+  - `site:django-foundation.github.io transparency financial report grants fellowship 2025`
+  - `site:django.com foundation annual report 2024 fellows grants financial`
+  - `site:docs.djangoproject.com foundation governance funding independence technical decisions Django`
+  - `site:fordfoundation.org roads and bridges open source infrastructure funding companies report`
+  - `site:fundraisingeffectivenessproject.org recurring donors retention report 2024`
+  - `site:github.blog GitHub Sponsors research motivations open source maintainers sponsors survey`
+  - `site:github.com github sponsors companies invoicing budget open source dependencies official`
+  - `site:github.com/django/dsf-docs bylaws corporate members voting`
+  - `site:github.com/django/dsf-working-groups fundraising annual report finances`
+  - `site:give.org "Online Giving Platforms and Donor Expectations" date`
+  - `site:give.org donor trust report charity impact transparency 2023`
+  - `site:give.org donor trust report trust charities accomplishments overhead 2023 pdf`
+  - `site:givingusa.org 2025 individual giving donors report`
+  - `site:linuxfoundation.org "ROI for Open Source Software Contribution" pdf`
+  - `site:linuxfoundation.org research ROI open source software contribution survey 2025 funding business value`
+  - `site:linuxfoundation.org research corporate open source program office funding projects decision process sponsorship`
+  - `site:linuxfoundation.org research open source funding maintainers corporate sponsorship report 2023`
+  - `site:media.djangoproject.com "Impact Report" DSF 2024`
+  - `site:opensourcefundingsurvey2024.com report 2024 funding labor hours direct cash`
+  - `site:openssf.org census critical open source dependencies companies funding security report`
+  - `site:openssf.org open source funding corporate dependencies sponsorship survey`
+  - `site:sovereign.tech maintainer survey funding open source maintenance report 2025`
+  - `site:static.djangoproject.com "Annual Impact Report"`
+  - `site:tidelift.com maintainer survey 2024 funding corporate open source`
+  - `site:todo-group.org open source funding guide corporations sponsorship dependencies OSPO`
+  - `site:www.djangoproject.com/foundation/records "Corporate Member" bylaws`
+  - `site:www.djangoproject.com/foundation/records bylaws corporate member voting Django Software Foundation`
+- Website domains:
+  - `24pullrequests.com`
+  - `360giving.org`
+  - `academic.oup.com`
+  - `afpglobal.org`
+  - `ansharora.in`
+  - `apache.org`
+  - `apereo.org`
+  - `api.emergentmind.com`
+  - `apnews.com`
+  - `arxiv.org`
+  - `backyourstack.com`
+  - `blog.ecosyste.ms`
+  - `blog.irvingwb.com`
+  - `blogs.vmware.com`
+  - `blogsarchive.apache.org`
+  - `bsky.app`
+  - `burntfen.com`
+  - `business.unm.edu`
+  - `cambridge.org`
+  - `careers.afpglobal.org`
+  - `cdn.platform.linuxfoundation.org`
+  - `cdnc.heyzine.com`
+  - `chaoss.community`
+  - `charitynavigator.org`
+  - `commons.ngi.eu`
+  - `conf.researchr.org`
+  - `cris.maastrichtuniversity.nl`
+  - `dashif.org`
+  - `dblp.org`
+  - `de.wikipedia.org`
+  - `deepai.org`
+  - `discourse.sustainoss.org`
+  - `django-news.com`
+  - `djangoproject.com`
+  - `docs.djangoproject.com`
+  - `docs.github.com`
+  - `docs.linuxfoundation.org`
+  - `documentfoundation.org`
+  - `doi.org`
+  - `donationtransparency.org`
+  - `dosu.dev`
+  - `eclipse.org`
+  - `econstor.eu`
+  - `ecosyste.ms`
+  - `eml.berkeley.edu`
+  - `en.wikipedia.org`
+  - `epiclab.github.io`
+  - `epjdatascience.springeropen.com`
+  - `etsi.org`
+  - `events.linuxfoundation.org`
+  - `experts.azregents.edu`
+  - `experts.nau.edu`
+  - `faculty.econ.ucsb.edu`
+  - `fordfoundation.org`
+  - `forum.devtalk.com`
+  - `forum.djangoproject.com`
+  - `fosdem.org`
+  - `fr.wikipedia.org`
+  - `freebsdfoundation.org`
+  - `fsf.org`
+  - `github-sponsorships.com`
+  - `github.blog`
+  - `github.com`
+  - `giv.org`
+  - `give-stg.s3.amazonaws.com`
+  - `give.org`
+  - `giveinternet.org`
+  - `greasyfork.org`
+  - `hrf.org`
+  - `inbox.vuxu.org`
+  - `investinopen.org`
+  - `itpro.com`
+  - `ivy.fm`
+  - `jekyllrb.com`
+  - `kar.kent.ac.uk`
+  - `latex-project.org`
+  - `lfx.linuxfoundation.org`
+  - `libraries.io`
+  - `linkedin.com`
+  - `linuxfoundation.eu`
+  - `linuxfoundation.org`
+  - `lnkd.in`
+  - `maik.io`
+  - `mail.python.org`
+  - `mastodon.social`
+  - `media.give.org`
+  - `nature.com`
+  - `nber.org`
+  - `nesbitt.io`
+  - `nostr.com`
+  - `nsf.gov`
+  - `opencollective.com`
+  - `opensource.org`
+  - `opensourcefundingsurvey2024.com`
+  - `openssf.org`
+  - `openuk.uk`
+  - `oscollective.org`
+  - `osf.io`
+  - `outreach.eclipse.foundation`
+  - `par.nsf.gov`
+  - `paypal.me`
+  - `periodicos.uninove.br`
+  - `podcast.sustainoss.org`
+  - `podcasts-online.org`
+  - `priyapahwa.com`
+  - `proceedings.com`
+  - `project.linuxfoundation.org`
+  - `projects.propublica.org`
+  - `pure.tudelft.nl`
+  - `pure.tue.nl`
+  - `python.org`
+  - `reddit.com`
+  - `research.vu.nl`
+  - `researchgate.net`
+  - `researchportal.murdoch.edu.au`
+  - `scf.edu`
+  - `sciencedirect.com`
+  - `shoptalkshow.com`
+  - `sixfeetup.com.\n\n`
+  - `sovereign.tech`
+  - `stackaid.us`
+  - `standard.open-contracting.org`
+  - `storage.googleapis.com`
+  - `sustainoss.org`
+  - `t.co`
+  - `tech.eu`
+  - `techradar.com`
+  - `thanks.dev`
+  - `thedroptimes.com`
+  - `theologicalhorizons.org`
+  - `tidelift.com`
+  - `twit.tv`
+  - `vuejs.org`
+  - `w.twstalker.com`
+  - `web.engr.oregonstate.edu`
+  - `whitehouse.gov`
+  - `wiki.eclipse.org`
+  - `www2.vwl.wiso.uni-goettingen.de`
+  - `youtube.com`
+  - `yuxiazhang-bit.github.io`
+
+### Session `019f7589-343f-74b3-a65e-b423e48d9776`
+- Log: `rollout-2026-07-18T16-02-33-019f7589-343f-74b3-a65e-b423e48d9776.jsonl`
+- This document: `update`
+- Search queries:
+  - `"Social Barriers Faced by Newcomers Placing Their First Contribution" PDF`
+  - `"Software selection in large-scale software engineering" Badampudi DOI`
+  - `site:give.org "Public Eye on Charitable Accountability" 2024 infographic`
+  - `site:give.org 2024 "Impact" donor trust special report infographic`
+  - `site:give.org/donor-trust-report "Public Eye on Charitable Accountability"`
+  - `site:give.org/news 2024 accountability donor trust how charity spends money truthful accurate 76% 73%`
+- Website domains:
+  - `creativecommons.org`
+  - `ctreude.ca`
+  - `dblp.org`
+  - `doi.org`
+  - `give.org`
+  - `igor.pro.br`
+  - `isr.uci.edu`
+  - `link.springer.com`
+  - `repositorio.usp.br`
+  - `researchgate.net`
+  - `sciencedirect.com`
+
+<!-- RESEARCH PROVENANCE: END -->

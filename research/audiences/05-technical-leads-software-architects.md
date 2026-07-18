@@ -301,3 +301,127 @@ These are audience progress actions, not proposed campaigns or assets:
 10. What emotional and status pressures actually influence framework decisions, and how do they interact with documented evidence?
 11. Do corporate Django funders initiate support from engineering dependency owners, executives, procurement, or social-impact teams, and what internal ROI case is required?
 12. Where are the failed or reversed Django adoption accounts? Public evidence is disproportionately successful and therefore vulnerable to survivorship bias.
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f7541-679e-7e30-a311-cd383ea341fb`
+- Log: `rollout-2026-07-18T14-44-08-019f7541-679e-7e30-a311-cd383ea341fb.jsonl`
+- This document: `add, update`
+- Search queries:
+  - `Django Developers Survey 2024 results technical challenges deployment performance async`
+  - `Django architecture engineering case study scale site:engineering.* Django Python`
+  - `Django at scale engineering blog architecture technical decision migration Django monolith`
+  - `Django at scale engineering site:sentry.engineering OR site:blog.sentry.io Django monolith`
+  - `Django migration engineering blog why moved from Django performance architecture`
+  - `Instagram engineering Django scale Python monolith site:engineering.fb.com OR site:instagram-engineering.com`
+  - `enterprise architecture technology selection roles approver security procurement technical lead framework standards`
+  - `site:aws.amazon.com architecture framework pillars security reliability performance efficiency cost optimization sustainability operational excellence`
+  - `site:cloud.google.com architecture framework software architecture decision records teams`
+  - `site:ddat-capability-framework.service.gov.uk technical architect responsibilities`
+  - `site:dl.acm.org software architecture decision making stakeholders empirical study architect`
+  - `site:docs.djangoproject.com/en/5.2/releases/5.2 long term support async ORM limitations Django`
+  - `site:docs.djangoproject.com/en/6.0/faq/install production WSGI ASGI Django deployment checklist`
+  - `site:docs.djangoproject.com/en/6.0/howto/deployment/checklist Django deployment checklist security performance operations`
+  - `site:docs.djangoproject.com/en/6.0/ref/databases PostgreSQL connection pooling async Django limitations`
+  - `site:docs.djangoproject.com/en/6.0/topics/async asynchronous support ORM transactions do not yet work async mode Django`
+  - `site:docs.djangoproject.com/en/dev/internals/security Django security releases supported versions policy`
+  - `site:dora.dev capabilities loosely coupled architecture software delivery performance teams`
+  - `site:dora.dev research software delivery performance architecture documentation 2024`
+  - `site:dora.dev/research 2024 documentation quality platform engineering developer productivity software delivery performance`
+  - `site:github.blog engineering Django monolith architecture case study`
+  - `site:gov.uk digital data profession capability framework technical architect role accountable technology strategy decisions stakeholders security`
+  - `site:gov.uk technology code of practice choose technology open source total cost ownership avoid lock in`
+  - `site:gov.uk/service-manual technical architect discovery business case security role`
+  - `site:gov.uk/service-manual/technology choosing technology team skills recruitment capability maintain service`
+  - `site:ieeexplore.ieee.org software architects responsibilities decisions stakeholders study`
+  - `site:leaddev.com engineering leadership report 2024 technical debt architecture developer productivity survey`
+  - `site:lp.jetbrains.com/python-developers-survey-2024 Django web development survey deployment cloud database`
+  - `site:martinfowler.com architecture decision framework selection team skills reversibility`
+  - `site:nist.gov Secure Software Development Framework software acquisition open source risk decision makers`
+  - `site:openssf.org consuming open source software guide evaluate project security maintenance governance`
+  - `site:queue.acm.org framework selection software architecture technical decision developer productivity`
+  - `site:survey.stackoverflow.co 2024 developer survey Python web frameworks Django professional developers`
+  - `site:survey.stackoverflow.co/2025 technology Python Django professional developers web frameworks asynchronous tools`
+  - `site:thoughtworks.com technology radar framework adoption team skills architecture decision risk open source`
+  - `site:www.djangoproject.com/download supported versions release roadmap LTS 2026`
+  - `site:www.djangoproject.com/fundraising corporate members fellowship maintenance security Django`
+  - `software architects decision making study stakeholders uncertainty architecture decisions empirical interview`
+  - `technical debt software architects pressure tradeoffs qualitative study practitioners`
+  - `technical leaders survey framework selection criteria hiring skills maintainability security open source software`
+- Website domains:
+  - `architecture.cddo.cabinetoffice.gov.uk`
+  - `arxiv.org`
+  - `assets.applytosupply.digitalmarketplace.service.gov.uk`
+  - `assets.publishing.service.gov.uk`
+  - `atlasgo.io`
+  - `aws.amazon.com`
+  - `baseline.openssf.org`
+  - `best.openssf.org`
+  - `blog.jetbrains.com`
+  - `collectionscanada.gc.ca`
+  - `cs.gmu.edu`
+  - `csrc.nist.gov`
+  - `ddat-capability-framework.service.gov.uk`
+  - `deps.dev†deps.dev`
+  - `djangoproject.com`
+  - `docs.aws.amazon.com`
+  - `docs.cloud.google.com`
+  - `docs.djangoproject.com`
+  - `docs.python.org`
+  - `doi.org`
+  - `dora.dev`
+  - `en.wikipedia.org`
+  - `engineering.fb.com`
+  - `engineering.kraken.tech`
+  - `forum.djangoproject.com`
+  - `gartner.com`
+  - `github.blog`
+  - `gov.uk`
+  - `governmentdigitalanddatahub.campaign.gov.uk`
+  - `hakibenita.com`
+  - `hodigital.blog.gov.uk`
+  - `ijprems.com`
+  - `insights.sei.cmu.edu`
+  - `juta.co.za`
+  - `kth.diva-portal.org`
+  - `leaddev.com`
+  - `learn.microsoft.com`
+  - `lfprojects.org`
+  - `link.springer.com`
+  - `linuxfoundation.org`
+  - `lists.openssf.org`
+  - `lp.jetbrains.com`
+  - `makimo.pl`
+  - `members.ciisec.org`
+  - `nascio.org`
+  - `nist.gov`
+  - `openssf.org`
+  - `opus.cloud1.lib.uts.edu.au`
+  - `orbilu.uni.lu`
+  - `policy.openssf.org`
+  - `portal.fis.tum.de`
+  - `project-archive.inf.ed.ac.uk`
+  - `python.org`
+  - `reddit.com`
+  - `repository.bilkent.edu.tr`
+  - `research.chalmers.se`
+  - `research.google`
+  - `research.vu.nl`
+  - `researchgate.net`
+  - `robertoverdecchia.github.io`
+  - `sciencedirect.com`
+  - `scs4privatebeta.ddat-capability-framework.service.gov.uk`
+  - `se.jku.at`
+  - `sei.cmu.edu`
+  - `shop.linuxnewmedia.com`
+  - `sixfeetup.com.\n\n`
+  - `sonarsource.com`
+  - `survey.stackoverflow.co`
+  - `thoughtworks.com`
+  - `typing.readthedocs.io`
+  - `wa.aws.amazon.com`
+
+<!-- RESEARCH PROVENANCE: END -->

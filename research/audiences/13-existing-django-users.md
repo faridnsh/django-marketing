@@ -277,3 +277,120 @@ These are user-progress actions, not marketing asset prescriptions:
 - How much uncompensated maintenance/on-call labor falls on individual Django specialists, and what emotional/burnout effects follow?
 - How do consultants, public-sector maintainers, nonprofits, and teams outside English-language channels differ from visible software-company accounts?
 - Which channels cause action—successful upgrade, resolved incident, adopted practice, or first contribution—rather than merely awareness?
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f7560-0549-7052-a5c7-3158bbfbc62d`
+- Log: `rollout-2026-07-18T15-17-34-019f7560-0549-7052-a5c7-3158bbfbc62d.jsonl`
+- This document: `add`
+- Search queries:
+  - `DORA 2024 developer experience documentation technical debt productivity report`
+  - `Django Developers Survey 2024 results upgrade versions deployment testing official`
+  - `Django Developers Survey 2025 results JetBrains Django Foundation`
+  - `Django at scale operations engineering blog Instagram Disqus Zulip`
+  - `Django monolith scaling production engineering case study`
+  - `Django operations production incident postmortem engineering`
+  - `Django production operations scaling postmortem upgrade case study`
+  - `Django upgrade case study large codebase production engineering blog`
+  - `Django upgrade discussion legacy code production forum`
+  - `Django upgrade experience survey technical debt discussion`
+  - `GitHub Octoverse Django adoption Python framework`
+  - `Stack Overflow Developer Survey 2024 Django professional developers official`
+  - `Stack Overflow Developer Survey 2025 Django web frameworks results official`
+  - `site:blog.sentry.io Django production scaling performance engineering`
+  - `site:engineering.* Django upgrade production case study Django 4 5`
+  - `site:engineeringblog.yelp.com Django performance scaling production`
+- Website domains:
+  - `arxiv.org`
+  - `aws.amazon.com`
+  - `blog.jetbrains.com`
+  - `cloud.google.com`
+  - `code.djangoproject.com`
+  - `computersciencejournals.com`
+  - `d-nb.info`
+  - `d1.awsstatic.com`
+  - `dam-cdn.atl.orangelogic.com`
+  - `dev.to`
+  - `devecosystem-2025.jetbrains.com`
+  - `discuss.openedx.org`
+  - `diva-portal.org`
+  - `django-deployments.readthedocs.io`
+  - `django-polymorphic.readthedocs.io`
+  - `django-upgrade.readthedocs.io`
+  - `django.readthedocs.io`
+  - `djangoproject.com`
+  - `djangostars.com`
+  - `docs.djangoproject.com`
+  - `dora.dev`
+  - `dspace.ut.ee`
+  - `em-tools.io`
+  - `en.wikipedia.org`
+  - `engineering.fb.com`
+  - `engineering.kraken.tech`
+  - `files01.core.ac.uk`
+  - `forum.djangoproject.com`
+  - `github.blog`
+  - `github.com`
+  - `goshippo.com`
+  - `homepages.dcc.ufmg.br`
+  - `ijeret.org`
+  - `itpro.com`
+  - `jetbrains.com`
+  - `jetbrains.com.cn`
+  - `joinclubhouse.ghost.io`
+  - `leaddev.com`
+  - `linkedin.com`
+  - `linuxuzmani.com`
+  - `lp.jetbrains.com`
+  - `meta.stackoverflow.com`
+  - `objectstorage.ap-dcc-gazipur-1.oraclecloud15.com`
+  - `offline-pixel.github.io`
+  - `openedx.atlassian.net`
+  - `pure.rug.nl`
+  - `pure.tudelft.nl`
+  - `reddit.com`
+  - `repo.pw.edu.pl`
+  - `rippling.com`
+  - `ru.wikipedia.org`
+  - `sanketsaurav.github.io`
+  - `security.snyk.io`
+  - `stackoverflow.blog`
+  - `stackoverflow.co`
+  - `subscription.packtpub.com`
+  - `survey.stackoverflow.co`
+  - `surveys.jetbrains.com`
+  - `tanujgarg.com`
+  - `techradar.com`
+  - `thegarywilson.com`
+  - `typing.readthedocs.io`
+  - `usenix.org`
+  - `webbyfox.co.uk`
+  - `youtube.com`
+
+### Session `019f7589-343f-74b3-a65e-b423e48d9776`
+- Log: `rollout-2026-07-18T16-02-33-019f7589-343f-74b3-a65e-b423e48d9776.jsonl`
+- This document: `update`
+- Search queries:
+  - `"Social Barriers Faced by Newcomers Placing Their First Contribution" PDF`
+  - `"Software selection in large-scale software engineering" Badampudi DOI`
+  - `site:give.org "Public Eye on Charitable Accountability" 2024 infographic`
+  - `site:give.org 2024 "Impact" donor trust special report infographic`
+  - `site:give.org/donor-trust-report "Public Eye on Charitable Accountability"`
+  - `site:give.org/news 2024 accountability donor trust how charity spends money truthful accurate 76% 73%`
+- Website domains:
+  - `creativecommons.org`
+  - `ctreude.ca`
+  - `dblp.org`
+  - `doi.org`
+  - `give.org`
+  - `igor.pro.br`
+  - `isr.uci.edu`
+  - `link.springer.com`
+  - `repositorio.usp.br`
+  - `researchgate.net`
+  - `sciencedirect.com`
+
+<!-- RESEARCH PROVENANCE: END -->

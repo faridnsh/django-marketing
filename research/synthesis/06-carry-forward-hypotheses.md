@@ -132,3 +132,18 @@ Before carrying a hypothesis into a final recommendation in any later phase, rec
 6. whether the outcome could rationally be rejection, no-build, migration, bounded participation, declined funding, or retirement.
 
 Absent those checks, these remain research hypotheses rather than positioning or priority conclusions.
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f7578-bbf8-74b1-b98e-f430f5b27ab5`
+- Log: `rollout-2026-07-18T15-44-34-019f7578-bbf8-74b1-b98e-f430f5b27ab5.jsonl`
+- This document: `add`
+- Search queries:
+  - None recorded.
+- Website domains:
+  - None recorded.
+
+<!-- RESEARCH PROVENANCE: END -->

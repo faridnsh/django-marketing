@@ -302,3 +302,165 @@ No supplied hypothesis directly names individual educators; that omission itself
 10. Do LTS-based course environments materially reduce maintenance incidents over an academic year, including third-party packages and hosting?
 11. What instructor notes, error corpora, formative questions, rubrics, and project variants are most reusable across settings?
 12. How often is the individual educator actually the framework decision-maker, versus an implementer of institutional or commercial curriculum?
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f7557-e29d-72c2-9235-53a139ca122a`
+- Log: `rollout-2026-07-18T15-08-41-019f7557-e29d-72c2-9235-53a139ca122a.jsonl`
+- This document: `add`
+- Search queries:
+  - `CS education pedagogical content knowledge programming instructors student misconceptions research`
+  - `CSTA 2024 State of CS teachers report professional development needs teacher time curriculum`
+  - `Django Girls tutorial curriculum beginners coach notes official`
+  - `Django teaching classroom instructors curriculum discussion forum`
+  - `K-12 computer science teacher survey challenges curriculum preparation time report`
+  - `NCWIT inclusive computer science teaching practices belonging classroom instructors research`
+  - `PRIMM programming pedagogy study Sentance Waite Kallia 2019`
+  - `Software Carpentry instructor training formative assessment novice programming official`
+  - `State of computer science education teacher survey 2024 CSTA curriculum resources`
+  - `bootcamp instructors teaching curriculum challenges software development qualitative study`
+  - `computer programming education novice worked examples Parsons problems pedagogy systematic review primary source`
+  - `computer science teacher landscape survey instructional practices 2024 CSTA`
+  - `computing teachers framework selection teaching web development curriculum Django discussion`
+  - `generative AI computer science education instructors assessment survey 2024 official ACM`
+  - `instructor experience teaching Django course students web development`
+  - `novice programming students cognitive load teaching systematic review computer science`
+  - `pair programming computer science education meta analysis students programming primary study`
+  - `peer instruction computer science education retention women study CS1`
+  - `site:cs50.harvard.edu/web Django course projects curriculum 2025`
+  - `site:cseducators.stackexchange.com web development framework teaching students Django`
+  - `site:developer.mozilla.org Django tutorial assessment web framework teaching`
+  - `site:dl.acm.org computing education research Parsons problems review 2022`
+  - `site:docs.djangoproject.com/en/5.2 intro tutorial Django first app reusable apps admin security`
+  - `site:docs.djangoproject.com/en/5.2 releases supported versions Django 5.2 LTS`
+  - `site:docs.djangoproject.com/en/5.2 topics testing overview Django test client teaching`
+  - `site:forum.djangoproject.com teach Django students classroom`
+  - `site:reddit.com/r/CSEducation curriculum preparation time uneven experience programming teacher`
+  - `teaching programming students uneven prior experience equity instructor study`
+- Website domains:
+  - `acm-education-genai-task-force.github.io`
+  - `acm.org`
+  - `apcentral.collegeboard.org`
+  - `api.drum.lib.umd.edu`
+  - `argentinaenpython.com`
+  - `arxiv.org`
+  - `astrotech.io`
+  - `ate.is`
+  - `blog.djangogirls.org`
+  - `blueprint.cs4all.nyc`
+  - `bootstrapworld.org`
+  - `carpentries.org`
+  - `chiodini.org`
+  - `cloudwithdjango.com`
+  - `coach.djangogirls.org`
+  - `courseinfo.ligent.net`
+  - `creativecommons.org`
+  - `crowdin.com`
+  - `cs50.harvard.edu`
+  - `csedresearch.org`
+  - `csteachers.org`
+  - `dbpia.co.kr`
+  - `dergipark.org.tr`
+  - `developer.mozilla.org`
+  - `django-intro.readthedocs.io`
+  - `django.training`
+  - `djangogirls.org`
+  - `docs.djangoproject.com`
+  - `docs.lib.purdue.edu`
+  - `doi.org`
+  - `dro.deakin.edu.au`
+  - `en.wikipedia.org`
+  - `enseignementsup-recherche.gouv.fr`
+  - `eprints.gla.ac.uk`
+  - `eric.ed.gov`
+  - `es.wikipedia.org`
+  - `files.eric.ed.gov`
+  - `forum.djangoproject.com`
+  - `fr.wikipedia.org`
+  - `frontiersin.org`
+  - `github.com`
+  - `hkbk.edu.in`
+  - `ieeexplore.ieee.org`
+  - `ijcses.org`
+  - `isedj.org`
+  - `it.wikipedia.org`
+  - `itpro.com`
+  - `jecrcfoundation.com`
+  - `journals.sagepub.com`
+  - `k12cs.org`
+  - `kaporcenter.org`
+  - `knowledgehut.com`
+  - `landscape.csteachers.org`
+  - `lemonde.fr`
+  - `link.springer.com`
+  - `maxosmith.com`
+  - `mdpi-res.com`
+  - `mdpi.com`
+  - `ncwit.org`
+  - `nemo.asee.org`
+  - `newui.pondit.com`
+  - `nischal.is-a.dev`
+  - `nytimes.com`
+  - `onlinelibrary.wiley.com`
+  - `orbittraining.ae`
+  - `orcid.org`
+  - `p49`
+  - `p56`
+  - `par.nsf.gov`
+  - `peer.asee.org`
+  - `preply.com`
+  - `primmportal.com`
+  - `progmiscon.org`
+  - `publish.illinois.edu`
+  - `qmro.qmul.ac.uk`
+  - `reddit.com`
+  - `research-collection.ethz.ch`
+  - `research.google`
+  - `researchgate.net`
+  - `ru.wikipedia.org`
+  - `sciencedirect.com`
+  - `software-carpentry.org`
+  - `spacefrontiers.org`
+  - `sukuna.edu.np`
+  - `superprof.com.au`
+  - `surveymonkey.com†www.surveymonkey.com`
+  - `swcarpentry.github.io`
+  - `tandfonline.com`
+  - `teachai.org`
+  - `techlearning.com`
+  - `techwithrathan.com`
+  - `thekennethlove.com`
+  - `time.com`
+  - `toce.acm.org`
+  - `tutorial.djangogirls.org`
+  - `wpassets.ncwit.org`
+  - `youtube.com`
+  - `zappcodeacademy.com`
+
+### Session `019f7589-343f-74b3-a65e-b423e48d9776`
+- Log: `rollout-2026-07-18T16-02-33-019f7589-343f-74b3-a65e-b423e48d9776.jsonl`
+- This document: `update`
+- Search queries:
+  - `"Social Barriers Faced by Newcomers Placing Their First Contribution" PDF`
+  - `"Software selection in large-scale software engineering" Badampudi DOI`
+  - `site:give.org "Public Eye on Charitable Accountability" 2024 infographic`
+  - `site:give.org 2024 "Impact" donor trust special report infographic`
+  - `site:give.org/donor-trust-report "Public Eye on Charitable Accountability"`
+  - `site:give.org/news 2024 accountability donor trust how charity spends money truthful accurate 76% 73%`
+- Website domains:
+  - `creativecommons.org`
+  - `ctreude.ca`
+  - `dblp.org`
+  - `doi.org`
+  - `give.org`
+  - `igor.pro.br`
+  - `isr.uci.edu`
+  - `link.springer.com`
+  - `repositorio.usp.br`
+  - `researchgate.net`
+  - `sciencedirect.com`
+
+<!-- RESEARCH PROVENANCE: END -->

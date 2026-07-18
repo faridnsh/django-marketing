@@ -144,3 +144,18 @@ Confidence below reflects cross-audience support. Each job must still be coded w
 4. Distinguish a recurring operating job from an event trigger. An upgrade deadline can trigger J8; supportability is the continuing outcome.
 5. Record whose outcome is optimized and who bears trade-offs. An agency’s margin, a client’s ownership, an operator’s on-call burden, and an end user’s continuity are not interchangeable.
 6. Use High/Medium/Low with a reason. A repeated cross-report pattern based on the same self-selected survey is not independent triangulation.
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f7578-bbf8-74b1-b98e-f430f5b27ab5`
+- Log: `rollout-2026-07-18T15-44-34-019f7578-bbf8-74b1-b98e-f430f5b27ab5.jsonl`
+- This document: `add`
+- Search queries:
+  - None recorded.
+- Website domains:
+  - None recorded.
+
+<!-- RESEARCH PROVENANCE: END -->

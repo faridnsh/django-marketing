@@ -286,3 +286,115 @@ The donor, learner, and contributor-specific hypotheses are irrelevant to this d
 - What emotional or status concerns—maturity, fashion, founder identity, investor credibility—meaningfully affect decisions?
 - How do bootstrapped, venture-funded, agency-built, regulated, and AI-native start-ups differ enough to require separate jobs research?
 - What can be learned from failed, stalled, or quietly maintained Django start-ups, which are largely absent from public success retrospectives?
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f754b-c5b8-7691-9c36-954ea81e4ea1`
+- Log: `rollout-2026-07-18T14-55-28-019f754b-c5b8-7691-9c36-954ea81e4ea1.jsonl`
+- This document: `add, update`
+- Search queries:
+  - `2025 Stack Overflow survey technology choice robust complete API security privacy rejection`
+  - `DORA 2024 report platform engineering developer productivity documentation`
+  - `Django Developers Survey 2025 company size role startup`
+  - `site:blog.sentry.io Django monolith startup architecture scaling engineering`
+  - `site:careersatdoordash.com/blog Django monolith time to market microservices December 2020`
+  - `site:engineering.instagram.com Django scaling architecture Instagram engineering`
+  - `site:stackoverflow.co 2025 survey work technology choice security privacy rejection`
+  - `site:survey.stackoverflow.co/2025 technology admired desired Python Django`
+  - `site:survey.stackoverflow.co/2025 work technology endorsement security privacy rejection criteria`
+  - `site:ycombinator.com startup technical founders launch quickly users advice`
+  - `software engineering startups technical debt study 86 startups Klotins 2018`
+  - `startup CTO role evolves technical founder product market fit interview`
+  - `startup software engineering practices 88 experience reports Paternoster 2014`
+  - `startup technical due diligence founders engineering primary research survey`
+  - `venture capital technical due diligence startup software security architecture checklist`
+- Website domains:
+  - `administraciondesistemas.com`
+  - `ai-infra-link.com`
+  - `antler.co`
+  - `arxiv.org`
+  - `assets.ctfassets.net`
+  - `axios.com`
+  - `bairesdev.com`
+  - `bear-images.sfo2.cdn.digitaloceanspaces.com`
+  - `blackduck.com`
+  - `careersatdoordash.com`
+  - `celaeno.cloud`
+  - `cincodias.elpais.com`
+  - `cleveroad.com`
+  - `cora.ucc.ie`
+  - `corp.tied-inc.com`
+  - `datadrivendaily.com`
+  - `dextralabs.com`
+  - `dipankar.org`
+  - `djangoproject.com`
+  - `doi.org`
+  - `dora.dev`
+  - `dx.doi.org`
+  - `eliftech.com`
+  - `en.wikipedia.org`
+  - `firebasestorage.googleapis.com`
+  - `fortiumpartners.com`
+  - `foundersled.studio`
+  - `gainhq.com`
+  - `gartner.com`
+  - `github.com`
+  - `glencoyne.com`
+  - `hapy.co`
+  - `images.template.net`
+  - `itpro.com`
+  - `lp.jetbrains.com`
+  - `meta.stackoverflow.com`
+  - `oulurepo.oulu.fi`
+  - `peruma.me`
+  - `reddit.com`
+  - `rightsstatements.org`
+  - `roamingpigs.com`
+  - `run.unl.pt`
+  - `scispace.com`
+  - `seedforge.com`
+  - `semasoftware.com`
+  - `sphereinc.com`
+  - `stackoverflow.blog`
+  - `stackoverflow.co`
+  - `startupbuddy.net`
+  - `startups.com`
+  - `startupscience.io`
+  - `storage.googleapis.com`
+  - `survey.stackoverflow.co`
+  - `teamusec.de`
+  - `techcrunch.com`
+  - `techradar.com`
+  - `traceable.ai`
+  - `trio.dev`
+  - `trustshoring.com`
+  - `urn.fi`
+  - `zaitsevartem.com`
+
+### Session `019f7589-343f-74b3-a65e-b423e48d9776`
+- Log: `rollout-2026-07-18T16-02-33-019f7589-343f-74b3-a65e-b423e48d9776.jsonl`
+- This document: `update`
+- Search queries:
+  - `"Social Barriers Faced by Newcomers Placing Their First Contribution" PDF`
+  - `"Software selection in large-scale software engineering" Badampudi DOI`
+  - `site:give.org "Public Eye on Charitable Accountability" 2024 infographic`
+  - `site:give.org 2024 "Impact" donor trust special report infographic`
+  - `site:give.org/donor-trust-report "Public Eye on Charitable Accountability"`
+  - `site:give.org/news 2024 accountability donor trust how charity spends money truthful accurate 76% 73%`
+- Website domains:
+  - `creativecommons.org`
+  - `ctreude.ca`
+  - `dblp.org`
+  - `doi.org`
+  - `give.org`
+  - `igor.pro.br`
+  - `isr.uci.edu`
+  - `link.springer.com`
+  - `repositorio.usp.br`
+  - `researchgate.net`
+  - `sciencedirect.com`
+
+<!-- RESEARCH PROVENANCE: END -->

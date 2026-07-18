@@ -317,3 +317,174 @@ No other existing-analysis hypothesis was sufficiently specific to this lifecycl
 12. Which channels actually change former users’ decisions, rather than merely creating awareness?
 13. Are returners more persuaded by current documentation, comparable postmortems, a practitioner conversation, or their own representative prototype?
 14. What evidence would convince a satisfied non-returner that Django now fits a particular new project—and what would confirm that it still does not?
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f7560-b92e-7202-8ba1-f499786fd8d6`
+- Log: `rollout-2026-07-18T15-18-21-019f7560-b92e-7202-8ba1-f499786fd8d6.jsonl`
+- This document: `add, update`
+- Search queries:
+  - `"Why I don't use Django" developer`
+  - `"Why I stopped using Django"`
+  - `"back to Django" after FastAPI`
+  - `"coming back to Django" web framework`
+  - `"migrate away from Django" Python`
+  - `"moved away from Django" developer blog`
+  - `"replaced Django" engineering blog`
+  - `"returned to Django" framework`
+  - `"went back to Django" Flask`
+  - `"why we left Django"`
+  - `Django migration firsthand account admin ORM return to Django`
+  - `DoorDash Django Kotlin migration 2020 developer frustration`
+  - `Gopher Academy "Moving to Go: A Pragmatic Guide" DramaFever date`
+  - `JetBrains State of Django 2024 survey other frameworks FastAPI Flask`
+  - `Mozilla MDN retiring Django Kuma migration Yari blog 2020`
+  - `Python Developers Survey 2024 web frameworks Django FastAPI Flask JetBrains`
+  - `Stack Overflow Developer Survey 2025 Django admired desired web frameworks`
+  - `company engineering blog migrate Django to Flask`
+  - `company engineering blog migrate Django to Go`
+  - `engineering "Django" "migration" "FastAPI"`
+  - `engineering migration off Django monolith "Django" company`
+  - `former Django developer why switched`
+  - `postmortem retired Django application architecture`
+  - `site:engineering.* "migrating from Django" framework`
+  - `site:engineering.* Django monolith migration services`
+- Website domains:
+  - `abellogin.github.io`
+  - `app.readthedocs.org`
+  - `arxiv.org`
+  - `ashokit.in`
+  - `blog.djangogirls.org`
+  - `blog.djangowebstudio.com`
+  - `blog.gopheracademy.com`
+  - `blog.ironboundsoftware.com`
+  - `blog.jetbrains.com`
+  - `blog.khanacademy.org`
+  - `blog.mikihands.com`
+  - `blog.mozilla.org`
+  - `blog.quastor.org`
+  - `builtwithdjango.com`
+  - `careersatdoordash.com`
+  - `code.djangoproject.com`
+  - `cognonative.com`
+  - `cosmiclearn.com`
+  - `cyces.co`
+  - `damianhodgkiss.com`
+  - `danrowden.com`
+  - `dev.to`
+  - `developer.mozilla.org`
+  - `developers.googleblog.com`
+  - `developersvoice.com`
+  - `dimkoug.com`
+  - `diposit.ub.edu`
+  - `django-authtools.readthedocs.io`
+  - `django-cms.org`
+  - `django-fluent-contents.readthedocs.io`
+  - `django-improved-user.readthedocs.io`
+  - `django-orm-cookbook-ko.readthedocs.io`
+  - `django-rest-framework.org`
+  - `django-reversion.readthedocs.io`
+  - `djangocms-blog.readthedocs.io`
+  - `djangoproject.com`
+  - `docs.djangoproject.com`
+  - `docs.python.org`
+  - `doordash.engineering`
+  - `doordash4.rssing.com`
+  - `efe.me`
+  - `en.wikipedia.org`
+  - `engineering.kraken.tech`
+  - `fastapi.tiangolo.com`
+  - `firebasestorage.googleapis.com`
+  - `florimond.dev`
+  - `foxleytalent.com`
+  - `fruty.io`
+  - `github.com`
+  - `go.dev`
+  - `gritframework.dev`
+  - `hacks.mozilla.org`
+  - `holovaty.com`
+  - `iangabaraev.com`
+  - `ictinstitute.nl`
+  - `ijsrem.com`
+  - `infoq.cn`
+  - `infoworld.com`
+  - `instagram-engineering.com`
+  - `jetbrains.com`
+  - `journals.nipes.org`
+  - `justdjango.com`
+  - `jyx.jyu.fi`
+  - `kth.diva-portal.org`
+  - `linkedin.com`
+  - `lp.jetbrains.com`
+  - `marc-butler.com`
+  - `medium.com`
+  - `merebtechnology.com`
+  - `mgsoftware.nl`
+  - `monolithic.dev`
+  - `mozilla-django-oidc.readthedocs.io`
+  - `natemeyvis.com`
+  - `news.pixelbreeders.com`
+  - `news.ycombinator.com`
+  - `petarmaric.com`
+  - `ph.pollub.pl`
+  - `puput.readthedocs.io`
+  - `pyvideo.org`
+  - `redcrowdigital.com.au`
+  - `reddit.com`
+  - `resources.jetbrains.com`
+  - `rippling.com`
+  - `roman.pt`
+  - `ru.wikipedia.org`
+  - `sagarxjadhav.github.io`
+  - `simonwillison.net`
+  - `sitescdn.wearevennture.co.uk`
+  - `skillzpage.com`
+  - `stackoverflow.blog`
+  - `stackoverflow.co`
+  - `stackoverflow.com`
+  - `statista.com`
+  - `survey.stackoverflow.co`
+  - `talentstack.online`
+  - `talha-sarwar.com`
+  - `tech-insider.org`
+  - `test-driven-django-development.readthedocs.io`
+  - `thescriptsavant.com`
+  - `theseus.fi`
+  - `to-go.dev`
+  - `training.talkpython.fm`
+  - `untangled.dev`
+  - `upstaff.com`
+  - `uvik.net`
+  - `voxire.com`
+  - `vskills.in`
+  - `vtechworks.lib.vt.edu`
+  - `web.fe.up.pt`
+  - `webucator.com`
+
+### Session `019f7589-343f-74b3-a65e-b423e48d9776`
+- Log: `rollout-2026-07-18T16-02-33-019f7589-343f-74b3-a65e-b423e48d9776.jsonl`
+- This document: `update`
+- Search queries:
+  - `"Social Barriers Faced by Newcomers Placing Their First Contribution" PDF`
+  - `"Software selection in large-scale software engineering" Badampudi DOI`
+  - `site:give.org "Public Eye on Charitable Accountability" 2024 infographic`
+  - `site:give.org 2024 "Impact" donor trust special report infographic`
+  - `site:give.org/donor-trust-report "Public Eye on Charitable Accountability"`
+  - `site:give.org/news 2024 accountability donor trust how charity spends money truthful accurate 76% 73%`
+- Website domains:
+  - `creativecommons.org`
+  - `ctreude.ca`
+  - `dblp.org`
+  - `doi.org`
+  - `give.org`
+  - `igor.pro.br`
+  - `isr.uci.edu`
+  - `link.springer.com`
+  - `repositorio.usp.br`
+  - `researchgate.net`
+  - `sciencedirect.com`
+
+<!-- RESEARCH PROVENANCE: END -->

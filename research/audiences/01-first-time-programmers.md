@@ -262,3 +262,151 @@ Other supplied hypotheses concern donors, enterprise approvers, professional Dja
 8. Which emotional and belonging needs are specific to independent learners, minors, career changers, and historically excluded groups rather than to “beginners” generally?
 9. What do first-time learners believe tutorial completion demonstrates, and how does that belief compare with their ability to build or debug a second small app?
 10. How many workshop attendees continue because of Django specifically versus mentoring, peer belonging, a visible artifact, or broader interest in programming?
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f7538-3256-7611-8f31-2edc10943d5b`
+- Log: `rollout-2026-07-18T14-34-05-019f7538-3256-7611-8f31-2edc10943d5b.jsonl`
+- This document: `add, update`
+- Search queries:
+  - `"Adapting an Ecological Belonging Intervention" 3819078`
+  - `"Decoding Debugging Instruction" 3690652 publication date`
+  - `"Effects of Worked Examples with Explanation Types" 3732791 publication date`
+  - `ACM computing education novice programmers immediate feedback worked examples cognitive load introductory programming study`
+  - `Django Girls impact report workshop participants first website programming experience survey`
+  - `Django beginners first web framework discussion learning Python prerequisite`
+  - `JetBrains Computer Science Learning Curve Survey 2024 motivations career goals common challenges report`
+  - `computing education novice programming belonging self efficacy study`
+  - `first generation women introductory computing self efficacy belonging 2017 PDF`
+  - `first programming language beginners Python survey motivations learning to code 2024`
+  - `freeCodeCamp 2022 new coder survey motivations barriers learning to code results`
+  - `novice programmers barriers programming learning cognitive load research study 2023`
+  - `novice programmers error messages frustration study debugging barriers introductory computer science`
+  - `peer reviewed novice programmers help seeking barriers online programming learning`
+  - `programming education meaningful projects motivation novice learners study`
+  - `site:blog.djangogirls.org "10th birthday survey" results participants 2024`
+  - `site:cs50.harvard.edu/x/2025 no prior programming experience syllabus Python SQL HTML CSS Flask`
+  - `site:developer.mozilla.org Django tutorial prerequisites basic Python web concepts`
+  - `site:djangoforbeginners.com prerequisite Python beginners Django learning path`
+  - `site:djangogirls.org 2024 impact survey workshop beginner coding participants`
+  - `site:djangogirls.org/en 2024 impact report participants survey`
+  - `site:dl.acm.org novice programming belonging self efficacy persistence introductory computer science study DOI`
+  - `site:survey.stackoverflow.co/2024 learning to code online resources technical documentation videos younger developers`
+  - `site:survey.stackoverflow.co/2025 learning to code technical documentation AI online resources`
+  - `site:tutorial.djangogirls.org/en "total beginners" Django Girls tutorial`
+  - `site:tutorial.djangogirls.org/en curriculum command line Python introduction Django models deployment`
+  - `systematic review novice programmer motivation persistence sense belonging computer science education`
+  - `systematic review novice programming difficulties 2022 programming education`
+- Website domains:
+  - `46502496.fs1.hubspotusercontent-na1.net`
+  - `acm.org`
+  - `acris.aalto.fi`
+  - `aimjournals.com`
+  - `app.readthedocs.org`
+  - `arc.cct.ie`
+  - `arxiv.org`
+  - `bit.ly`
+  - `blog.djangogirls.org`
+  - `blog.jetbrains.com`
+  - `bura.brunel.ac.uk`
+  - `codefirstgirls.com`
+  - `colab.ws`
+  - `connormagnuson.com`
+  - `coursera.org`
+  - `cra.org`
+  - `creativecommons.org`
+  - `crowdin.com`
+  - `cs.uni.edu`
+  - `cs50.harvard.edu`
+  - `cserg.cs.mtu.edu`
+  - `developer.mozilla.org`
+  - `digitalcommons.morris.umn.edu`
+  - `digitalcommons.unomaha.edu`
+  - `djangogirls.org`
+  - `djangoproject.com`
+  - `dl.acm.org`
+  - `docs.djangoproject.com`
+  - `docs.python.org`
+  - `doi.org`
+  - `edtechbooks.s3.us-west-2.amazonaws.com`
+  - `eduhk.hk`
+  - `ejournals.ph`
+  - `eleanorourke.com`
+  - `en.wikipedia.org`
+  - `eprints.gla.ac.uk`
+  - `eric.ed.gov`
+  - `es.wikipedia.org`
+  - `eurekamag.com`
+  - `experts.azregents.edu`
+  - `experts.nau.edu`
+  - `facetsjournal.com`
+  - `files.eric.ed.gov`
+  - `flask.palletsprojects.com`
+  - `forms.nhcarrigan.com`
+  - `fr.wikipedia.org`
+  - `github.com`
+  - `glasgow.gov.uk`
+  - `globalgiving.org`
+  - `ir.uitm.edu.my`
+  - `isnap.csc.ncsu.edu`
+  - `it.wikipedia.org`
+  - `itpro.com`
+  - `jise.org`
+  - `jocse.org`
+  - `journal-gehu.com`
+  - `journals.sagepub.com`
+  - `kmel-journal.org`
+  - `lp.jetbrains.com`
+  - `mdpi.com`
+  - `ndltd.ncl.edu.tw`
+  - `nemo.asee.org`
+  - `olj.onlinelearningconsortium.org`
+  - `orcid.org`
+  - `paperdive.app`
+  - `projects.cs.uct.ac.za`
+  - `reddit.com`
+  - `research-collection.ethz.ch`
+  - `researchgate.net`
+  - `researchr.org`
+  - `resources.jetbrains.com`
+  - `ru.wikipedia.org`
+  - `scholars.duke.edu`
+  - `scholarship.libraries.rutgers.edu`
+  - `sciencedirect.com`
+  - `sebhau.edu.ly`
+  - `sensifylab.cis.udel.edu`
+  - `survey.stackoverflow.co`
+  - `surveys.jetbrains.com`
+  - `tandfonline.com`
+  - `techlearning.com`
+  - `techradar.com`
+  - `tutorial.djangogirls.org`
+  - `vtechworks.lib.vt.edu`
+
+### Session `019f7589-343f-74b3-a65e-b423e48d9776`
+- Log: `rollout-2026-07-18T16-02-33-019f7589-343f-74b3-a65e-b423e48d9776.jsonl`
+- This document: `update`
+- Search queries:
+  - `"Social Barriers Faced by Newcomers Placing Their First Contribution" PDF`
+  - `"Software selection in large-scale software engineering" Badampudi DOI`
+  - `site:give.org "Public Eye on Charitable Accountability" 2024 infographic`
+  - `site:give.org 2024 "Impact" donor trust special report infographic`
+  - `site:give.org/donor-trust-report "Public Eye on Charitable Accountability"`
+  - `site:give.org/news 2024 accountability donor trust how charity spends money truthful accurate 76% 73%`
+- Website domains:
+  - `creativecommons.org`
+  - `ctreude.ca`
+  - `dblp.org`
+  - `doi.org`
+  - `give.org`
+  - `igor.pro.br`
+  - `isr.uci.edu`
+  - `link.springer.com`
+  - `repositorio.usp.br`
+  - `researchgate.net`
+  - `sciencedirect.com`
+
+<!-- RESEARCH PROVENANCE: END -->

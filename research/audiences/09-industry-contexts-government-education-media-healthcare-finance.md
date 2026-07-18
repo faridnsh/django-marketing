@@ -306,3 +306,108 @@ Claims about donors, early-career learners, contributor recognition, and profess
 10. Are media and education better segmented by mission/revenue model and decentralization than by industry label?
 11. Which channels are used for discovery versus formal validation, and do forums, conferences, podcasts, or short-form social ever affect approval?
 12. What are the most common legitimate rejection reasons, failed proofs, upgrade incidents, and hidden lifecycle costs? Public evidence is especially sparse here.
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f754f-8986-7dd0-a745-2c87ac65a27f`
+- Log: `rollout-2026-07-18T14-59-34-019f754f-8986-7dd0-a745-2c87ac65a27f.jsonl`
+- This document: `add, update`
+- Search queries:
+  - `Reuters Institute journalism media technology trends predictions 2025 survey media leaders technology investment product subscriptions AI`
+  - `site:bankofengland.co.uk operational resilience financial services important business services impact tolerance technology 2024`
+  - `site:bis.org principles operational resilience banks ICT systems third-party risk 2021`
+  - `site:docs.djangoproject.com/en/6.0/internals/release-process Django release process LTS security fixes 2026`
+  - `site:docs.djangoproject.com/en/6.0/internals/security Django security policy supported versions disclosure`
+  - `site:eba.europa.eu DORA ICT risk management testing incident reporting January 2025`
+  - `site:eba.europa.eu ICT risk management financial institutions DORA third party open source software`
+  - `site:educause.edu 2025 top 10 higher education technology cybersecurity privacy accessibility procurement staffing`
+  - `site:educause.edu higher education technology procurement privacy security accessibility report 2024`
+  - `site:ffiec.gov architecture infrastructure operations booklet resilience software development third party 2021`
+  - `site:gov.uk service manual choose technology open source avoiding lock-in legacy support 2025`
+  - `site:gov.uk service standard technology procurement open source government digital service security accessibility multidisciplinary team`
+  - `site:healthit.gov USCDI interoperability standards healthcare developers FHIR 2025`
+  - `site:hhs.gov healthcare cybersecurity performance goals HIPAA risk analysis web applications`
+  - `site:niemanlab.org newsroom CMS technology product developers publishers survey`
+  - `site:nist.gov secure software development framework third party components vulnerability provenance 2022`
+  - `site:owasp.org dependency component analysis software framework selection security supply chain`
+  - `site:reutersinstitute.politics.ox.ac.uk digital news report newsroom product technology platform 2024 publishers`
+  - `site:section508.gov technology accessibility federal procurement software requirements`
+  - `site:studentprivacy.ed.gov FERPA online educational services vendors security privacy data governance`
+  - `site:w3.org WCAG 2.2 recommendation 5 October 2023 accessibility web applications`
+  - `site:wan-ifra.org newsroom technology survey digital publishers product data cybersecurity 2024`
+  - `site:www.djangoproject.com/weblog/ security releases Django July 2026`
+- Website domains:
+  - `access-board.gov`
+  - `acquisition.gov`
+  - `apnews.com`
+  - `arxiv.org`
+  - `aspr.hhs.gov`
+  - `asprtracie.hhs.gov`
+  - `assets.applytosupply.digitalmarketplace.service.gov.uk`
+  - `assets.section508.gov`
+  - `axios.com`
+  - `bankofengland.co.uk`
+  - `bis.org`
+  - `code.djangoproject.com`
+  - `contractsfinder.service.gov.uk`
+  - `csrc.nist.gov`
+  - `digital.gov`
+  - `djangoproject.com`
+  - `docs.djangoproject.com`
+  - `doi.org`
+  - `eba.europa.eu`
+  - `educause.edu`
+  - `en.wikipedia.org`
+  - `entrepreneur.com`
+  - `er.educause.edu`
+  - `ffiec.gov`
+  - `forbes.com`
+  - `gov.uk`
+  - `gpo.gov`
+  - `healthit.gov`
+  - `hhs.gov`
+  - `hhscyber.hhs.gov`
+  - `isp.healthit.gov`
+  - `ithandbook.ffiec.gov`
+  - `local.gov.uk`
+  - `naei.energysecurity.gov.uk`
+  - `nccoe.nist.gov`
+  - `nist.gov`
+  - `nvlpubs.nist.gov`
+  - `owasp.org`
+  - `reddit.com`
+  - `reutersinstitute.politics.ox.ac.uk`
+  - `section508.gov`
+  - `standards.usa.gov`
+  - `studentprivacy.ed.gov`
+  - `tsapps.nist.gov`
+  - `tvtechnology.com`
+  - `w3.org`
+
+### Session `019f7589-343f-74b3-a65e-b423e48d9776`
+- Log: `rollout-2026-07-18T16-02-33-019f7589-343f-74b3-a65e-b423e48d9776.jsonl`
+- This document: `update`
+- Search queries:
+  - `"Social Barriers Faced by Newcomers Placing Their First Contribution" PDF`
+  - `"Software selection in large-scale software engineering" Badampudi DOI`
+  - `site:give.org "Public Eye on Charitable Accountability" 2024 infographic`
+  - `site:give.org 2024 "Impact" donor trust special report infographic`
+  - `site:give.org/donor-trust-report "Public Eye on Charitable Accountability"`
+  - `site:give.org/news 2024 accountability donor trust how charity spends money truthful accurate 76% 73%`
+- Website domains:
+  - `creativecommons.org`
+  - `ctreude.ca`
+  - `dblp.org`
+  - `doi.org`
+  - `give.org`
+  - `igor.pro.br`
+  - `isr.uci.edu`
+  - `link.springer.com`
+  - `repositorio.usp.br`
+  - `researchgate.net`
+  - `sciencedirect.com`
+
+<!-- RESEARCH PROVENANCE: END -->

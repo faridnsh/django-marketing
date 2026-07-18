@@ -293,3 +293,120 @@ Organization size alone is a poor predictor. Segmenting by **service criticality
 8. What prevents employee contribution or funding when a company materially depends on Django, and which impact measures unlock approval?
 9. Do architecture accounts, security/process evidence, peer references, or prototypes change decisions most—and for which reviewer?
 10. How are end-user, data-subject, operator, accessibility, and business-continuity consequences represented in framework decisions?
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f754c-cfc6-7031-8cb5-9442d9c7b140`
+- Log: `rollout-2026-07-18T14-56-36-019f754c-cfc6-7031-8cb5-9442d9c7b140.jsonl`
+- This document: `add, update`
+- Search queries:
+  - `2024 open source software funding report GitHub Linux Foundation Harvard organizations contribute 7.7 billion official`
+  - `Harvard Business School value of open source software firms 2024 paper contribution free rider`
+  - `enterprise open source survey decision makers security support skills official report 2024`
+  - `site:blog.mozilla.org Django security production case study`
+  - `site:cisa.gov open source software security roadmap enterprise 2023 procurement`
+  - `site:cloud.google.com/devops/state-of-devops 2024 report organizational performance software delivery`
+  - `site:cncf.io end user survey technology selection security community support procurement`
+  - `site:csrc.nist.gov software supply chain procurement attestation SBOM acquirer guidance`
+  - `site:digital-strategy.ec.europa.eu Cyber Resilience Act open source software manufacturers obligations dates 2024`
+  - `site:docs.djangoproject.com/en/5.2/internals/release-process support policy LTS security release Django`
+  - `site:docs.djangoproject.com/en/6.0/internals/release-process Django release cadence eight months LTS three years`
+  - `site:docs.djangoproject.com/en/6.0/releases/ Django LTS release policy`
+  - `site:dora.dev research 2024 software delivery performance lead time deployment frequency failed deployment recovery stability`
+  - `site:dropbox.tech Django migration Python large scale`
+  - `site:engineering.fb.com Instagram Django scaling engineering`
+  - `site:engineering.mozilla.org Django architecture production`
+  - `site:eur-lex.europa.eu Regulation EU 2024 2847 open source software cyber resilience act free open source commercial activity`
+  - `site:github.com/open-source 2024 open source software funding report organizations contribute`
+  - `site:gov.uk secure by design third party product security procurement risk owner`
+  - `site:gov.uk service manual choosing technology open source skills support security`
+  - `site:hbs.edu open source software value firms 2024 Hoffmann Nagle Zhou`
+  - `site:jetbrains.com/lp/django-developer-survey-2024 results company size`
+  - `site:linuxfoundation.org research enterprise open source report security 2023 procurement`
+  - `site:linuxfoundation.org research open source enterprise support security skills report PDF`
+  - `site:linuxfoundation.org research open source software funding report 2024 $7.7 billion`
+  - `site:lp.jetbrains.com/django-developer-survey-2024 organization size Django`
+  - `site:lp.jetbrains.com/python-developers-survey-2024 Django web framework company size`
+  - `site:nist.gov CSF 2.0 govern roles responsibilities legal regulatory supply chain risk 2024`
+  - `site:nist.gov SP 800-161r1 acquisition procurement software supply chain roles enterprise`
+  - `site:nist.gov SP 800-218 SSDF acquirers suppliers provenance software 2022`
+  - `site:openuk.uk state of open enterprise decision makers security procurement report`
+  - `site:papers.ssrn.com value of open source software 2024 enterprise contribution`
+  - `site:survey.stackoverflow.co/2025 technology Django professional developers`
+  - `site:www.djangoproject.com/download supported versions future roadmap Django 6.0 5.2 LTS 2026`
+  - `site:www.djangoproject.com/foundation/ Django security team governance maintenance funding`
+  - `site:www.djangoproject.com/foundation/corporate-members Django corporate members funding 2025`
+  - `site:www.djangoproject.com/weblog security releases Django process report security issue`
+- Website domains:
+  - `arxiv.org`
+  - `assets.applytosupply.digitalmarketplace.service.gov.uk`
+  - `assets.publishing.service.gov.uk`
+  - `best.openssf.org`
+  - `blog.mozilla.org`
+  - `cisa.gov`
+  - `cloud.google.com`
+  - `cncf.io`
+  - `code.djangoproject.com`
+  - `contractsfinder.service.gov.uk`
+  - `d3.harvard.edu`
+  - `dash.harvard.edu`
+  - `data.europa.eu`
+  - `deps.dev†deps.dev`
+  - `devops-research.com`
+  - `digital-strategy.ec.europa.eu`
+  - `djangoproject.com`
+  - `docs.djangoproject.com`
+  - `docs.github.com`
+  - `doi.org`
+  - `dora.dev`
+  - `dx.doi.org`
+  - `econbiz.de`
+  - `en.wikipedia.org`
+  - `engineering.fb.com`
+  - `eur-lex.europa.eu`
+  - `europeanopensource.academy`
+  - `finos.org`
+  - `forrester.com`
+  - `github.com`
+  - `gov.uk`
+  - `government.github.com`
+  - `hbs.edu`
+  - `hbswk.hbs.edu`
+  - `ideas.repec.org`
+  - `iso.org`
+  - `itpro.com`
+  - `lfprojects.org†lfprojects.org`
+  - `lfx.linuxfoundation.org`
+  - `library.hbs.edu`
+  - `linuxfoundation.org`
+  - `lp.jetbrains.com`
+  - `lpi.org`
+  - `ncsc.gov.uk`
+  - `nist.gov`
+  - `nvlpubs.nist.gov`
+  - `opensource.org`
+  - `opensourcefundingsurvey2024.com`
+  - `opensourcesurvey.org`
+  - `openssf.org`
+  - `owasp.org`
+  - `papers.ssrn.com`
+  - `perforce.com`
+  - `project.linuxfoundation.org`
+  - `reddit.com`
+  - `researchgate.net`
+  - `resources.github.com`
+  - `sciencedirect.com`
+  - `security.gov.uk`
+  - `services.google.com`
+  - `sixfeetup.com.\n\n`
+  - `ssrn.com`
+  - `storage.googleapis.com`
+  - `studylib.net`
+  - `survey.stackoverflow.co`
+  - `sysdig.com`
+  - `techradar.com`
+
+<!-- RESEARCH PROVENANCE: END -->

@@ -105,3 +105,18 @@ Priority reflects the risk that the current label will recruit the wrong people,
 ## What not to infer yet
 
 These changes do not establish segment size, value, reachability, adoption propensity, or priority. They also do not show that any audience wants the same evidence in the same form. Those questions require the matched decision-episode, observational, survey, and longitudinal work specified in [the primary-research plan](05-primary-research-plan.md).
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f7578-bbf8-74b1-b98e-f430f5b27ab5`
+- Log: `rollout-2026-07-18T15-44-34-019f7578-bbf8-74b1-b98e-f430f5b27ab5.jsonl`
+- This document: `add`
+- Search queries:
+  - None recorded.
+- Website domains:
+  - None recorded.
+
+<!-- RESEARCH PROVENANCE: END -->

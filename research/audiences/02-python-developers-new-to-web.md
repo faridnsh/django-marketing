@@ -294,3 +294,123 @@ Only claims relevant to this audience are audited; donor, enterprise approver, e
 10. How do AI assistants alter learning quality, debugging skill, version errors, and confidence for this audience?
 11. How welcoming and effective do newcomers find the Forum, Discord, local groups, and workshops across identity, language, timezone, and disability—not merely whether the channels exist?
 12. Which next action best predicts independent capability: finishing a tutorial, modifying it, deploying it, building an original project, receiving code review, or explaining the request lifecycle?
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f7538-4b87-71c2-a087-72ebfa7f005d`
+- Log: `rollout-2026-07-18T14-34-11-019f7538-4b87-71c2-a087-72ebfa7f005d.jsonl`
+- This document: `add, update`
+- Search queries:
+  - `2025 Stack Overflow developer survey Django web frameworks 2025 Python learning`
+  - `Django Girls 2024 annual report workshops participants career`
+  - `Django Girls impact survey participants career confidence community report`
+  - `Django beginner community survey welcoming mentorship forum Python web development`
+  - `Django forum beginner new to web development Python deployment confusion`
+  - `DjangoCon beginner mentorship survey community newcomers`
+  - `Lightcast Django job postings Python web developer 2024`
+  - `MDN curriculum survey new front-end developers pain points employers 2023`
+  - `Python Django beginner survey web development learning challenges HTTP deployment`
+  - `Python Django jobs postings report 2025 developer skills job market dataset`
+  - `Stack Overflow Developer Survey 2024 learning to code online resources Python web framework Django`
+  - `academic study web framework selection criteria developers documentation community popularity learning curve`
+  - `site:discuss.python.org Django web development beginner framework`
+  - `site:docs.djangoproject.com/en/6.0/howto/deployment/checklist deployment checklist Django runserver security`
+  - `site:docs.djangoproject.com/en/6.0/intro/overview Django overview admin ORM authentication`
+  - `site:docs.djangoproject.com/en/6.0/intro/tutorial01 Django tutorial Python experience familiarity`
+  - `site:forum.djangoproject.com "first web app" Django beginner deployment`
+  - `site:forum.djangoproject.com "new to web development" Python Django beginner`
+  - `site:forum.djangoproject.com Django beginner "Python" "HTTP" confused tutorial`
+  - `site:lp.jetbrains.com/python-developers-survey-2024 web development Django Flask FastAPI survey`
+  - `site:survey.stackoverflow.co/2025 Django professional developers web frameworks Python learning to code`
+  - `site:www.djangoproject.com/download/ supported versions Django 2026 LTS`
+  - `software developers framework selection criteria survey documentation community learning curve web framework`
+  - `study novice web developers challenges full stack deployment authentication database`
+- Website domains:
+  - `127.0.0.1`
+  - `2024.djangocon.eu`
+  - `arxiv.org`
+  - `axios.com`
+  - `bertelsmann-university.com`
+  - `blog.djangogirls.org`
+  - `blog.nobledesktop.com`
+  - `ceipal.com`
+  - `citeseerx.ist.psu.edu`
+  - `coach.djangogirls.org`
+  - `code.djangoproject.com`
+  - `coursera-assessments.s3.amazonaws.com`
+  - `cwiki.apache.org`
+  - `developer.mozilla.org`
+  - `diva-portal.org`
+  - `djangogirls.org`
+  - `djangoproject.com`
+  - `docs.djangoproject.com`
+  - `doi.org`
+  - `en.wikipedia.org`
+  - `engineering.fb.com`
+  - `escholarship.org`
+  - `eu-assets.contentstack.com`
+  - `example.com`
+  - `fishingbook.net`
+  - `forum.djangoproject.com`
+  - `genderatwork.org`
+  - `girlsinthegame.org`
+  - `hackerrank.com`
+  - `ijcesen.com`
+  - `ijircce.com`
+  - `ijirt.org`
+  - `itpro.com`
+  - `jatir.org`
+  - `lightcast.com`
+  - `lightcast.io`
+  - `localhost`
+  - `lp.jetbrains.com`
+  - `media.neliti.com`
+  - `odr.chalmers.se`
+  - `pantech.ai`
+  - `python.org`
+  - `pythonanywhere.com`
+  - `reddit.com`
+  - `register-of-charities.charitycommission.gov.uk`
+  - `sciencedirect.com`
+  - `sitescdn.wearevennture.co.uk`
+  - `stackoverflow.blog`
+  - `stackoverflow.co`
+  - `stackoverflow.com`
+  - `steamacademycy.org`
+  - `stormvirux.github.io`
+  - `survey.stackoverflow.co`
+  - `surveys.jetbrains.com`
+  - `techradar.com`
+  - `thequickblog.com`
+  - `w3schools.com`
+  - `waseda.elsevierpure.com`
+  - `welcomehomevetsofnj.org`
+  - `werkzeug.pocoo.org`
+
+### Session `019f7589-343f-74b3-a65e-b423e48d9776`
+- Log: `rollout-2026-07-18T16-02-33-019f7589-343f-74b3-a65e-b423e48d9776.jsonl`
+- This document: `update`
+- Search queries:
+  - `"Social Barriers Faced by Newcomers Placing Their First Contribution" PDF`
+  - `"Software selection in large-scale software engineering" Badampudi DOI`
+  - `site:give.org "Public Eye on Charitable Accountability" 2024 infographic`
+  - `site:give.org 2024 "Impact" donor trust special report infographic`
+  - `site:give.org/donor-trust-report "Public Eye on Charitable Accountability"`
+  - `site:give.org/news 2024 accountability donor trust how charity spends money truthful accurate 76% 73%`
+- Website domains:
+  - `creativecommons.org`
+  - `ctreude.ca`
+  - `dblp.org`
+  - `doi.org`
+  - `give.org`
+  - `igor.pro.br`
+  - `isr.uci.edu`
+  - `link.springer.com`
+  - `repositorio.usp.br`
+  - `researchgate.net`
+  - `sciencedirect.com`
+
+<!-- RESEARCH PROVENANCE: END -->

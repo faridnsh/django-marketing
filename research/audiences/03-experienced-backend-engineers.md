@@ -300,3 +300,107 @@ Claims about donors, sponsors, educators, and contributor recognition are outsid
 12. What outcomes can be measured without reducing framework fit to delivery speed or synthetic throughput—for example onboarding time, upgrade effort, incident load, change failure, and dependency risk?
 
 The highest-priority evidence gap is **direct comparative interviews around recent real decisions**: experienced engineers who adopted Django, rejected it after evaluation, inherited it, stayed with it through a major change, or left it. The present report has strong evidence for the general selection method and current Django-user behavior, but only medium or low evidence for causal motivations among prospective experienced backend engineers.
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f7538-5de7-70c0-82a5-cc4a4c888a75`
+- Log: `rollout-2026-07-18T14-34-16-019f7538-5de7-70c0-82a5-cc4a4c888a75.jsonl`
+- This document: `add, update`
+- Search queries:
+  - `2025 Django Developers Survey results JetBrains Django REST API backend developers upgrade versions`
+  - `Django adoption migration engineering blog why Django backend architecture case study`
+  - `Django forum experienced developers concerns async typing 2024 survey`
+  - `Django migration away engineering blog async typing performance`
+  - `Instagram engineering Django scale PyCon talk database 2017 engineering decision`
+  - `Stack Overflow Developer Survey 2025 professional developers learning information sources documentation Stack Overflow AI trust`
+  - `backend developer technology selection decision criteria survey 2024`
+  - `developer framework selection survey maintainability security performance documentation ecosystem backend engineers`
+  - `engineering blog chose Django backend why startup mature framework case study`
+  - `site:cloud.google.com devops state 2024 developer experience documentation quality`
+  - `site:docs.djangoproject.com Django performance database optimization official`
+  - `site:docs.djangoproject.com deployment checklist Django security performance official`
+  - `site:docs.djangoproject.com supported versions security release process Django official`
+  - `site:dora.dev research documentation quality developer performance 2023`
+  - `site:www.djangoproject.com security releases process Django supported versions LTS`
+  - `software developers framework selection criteria empirical study maintainability documentation ecosystem security`
+- Website domains:
+  - `arxiv.org`
+  - `blog.algosmiths.com`
+  - `blog.jetbrains.com`
+  - `bth.diva-portal.org`
+  - `cloud.google.com`
+  - `cncf.io`
+  - `code.djangoproject.com`
+  - `computing.co.uk`
+  - `conf42.github.io`
+  - `creativecommons.org`
+  - `cs.cmu.edu`
+  - `dam-cdn.atl.orangelogic.com`
+  - `digikogu.taltech.ee`
+  - `diva-portal.org`
+  - `djangoproject.com`
+  - `djangostars.com`
+  - `docker.com`
+  - `docs.djangoproject.com`
+  - `doi.org`
+  - `dora.dev`
+  - `dspace.library.uu.nl`
+  - `en.wikipedia.org`
+  - `engineering.fb.com`
+  - `er.ucu.edu.ua`
+  - `escholarship.org`
+  - `eurekamag.com`
+  - `forum.djangoproject.com`
+  - `ideas.repec.org`
+  - `itpro.com`
+  - `jetbrains.com`
+  - `link.springer.com`
+  - `lp.jetbrains.com`
+  - `openurl.ebsco.com`
+  - `papansarkar.com`
+  - `pypy.org`
+  - `pyvideo.org`
+  - `reddit.com`
+  - `research.wur.nl`
+  - `resourcifi.com`
+  - `sciencedirect.com`
+  - `scitepress.org`
+  - `speakerdeck.com`
+  - `stackoverflow.blog`
+  - `stackoverflow.co`
+  - `survey.stackoverflow.co`
+  - `techradar.com`
+  - `tore.tuhh.de`
+  - `trepo.tuni.fi`
+  - `us.pycon.org`
+  - `usenix.org`
+  - `utupub.fi`
+  - `yuriysokolov.ru`
+
+### Session `019f7589-343f-74b3-a65e-b423e48d9776`
+- Log: `rollout-2026-07-18T16-02-33-019f7589-343f-74b3-a65e-b423e48d9776.jsonl`
+- This document: `update`
+- Search queries:
+  - `"Social Barriers Faced by Newcomers Placing Their First Contribution" PDF`
+  - `"Software selection in large-scale software engineering" Badampudi DOI`
+  - `site:give.org "Public Eye on Charitable Accountability" 2024 infographic`
+  - `site:give.org 2024 "Impact" donor trust special report infographic`
+  - `site:give.org/donor-trust-report "Public Eye on Charitable Accountability"`
+  - `site:give.org/news 2024 accountability donor trust how charity spends money truthful accurate 76% 73%`
+- Website domains:
+  - `creativecommons.org`
+  - `ctreude.ca`
+  - `dblp.org`
+  - `doi.org`
+  - `give.org`
+  - `igor.pro.br`
+  - `isr.uci.edu`
+  - `link.springer.com`
+  - `repositorio.usp.br`
+  - `researchgate.net`
+  - `sciencedirect.com`
+
+<!-- RESEARCH PROVENANCE: END -->

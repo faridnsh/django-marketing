@@ -182,3 +182,41 @@ In solo projects several boxes collapse into one person. In institutions and reg
 The evidence base has six systemic weaknesses: incumbent/survivorship bias; self-selection through Django and technology channels; English-language and Europe/North America concentration; weak role attribution; public success/postmortem selection; and weak causal or longitudinal evidence. Channel evidence usually shows reported use, not what moved a person from discovery to evaluation, approval, adoption, retention, contribution, or funding.
 
 Primary research should therefore begin with recent decision episodes, not attitudes. Sample matched adopters, serious rejecters, no-build/buy decisions, quiet former users, and retained incumbents across authority, lifecycle, and risk contexts. Reconstruct who initiated, supplied evidence, vetoed, approved, used, and bore consequences; capture artifacts such as decision records, proof criteria, review requests, upgrade plans, course proposals, contribution threads, and funding proposals. Separately observe beginner and contributor attempts because retrospective interviews underreport setup, vocabulary, and feedback failures. Details and sequencing appear in [the primary-research plan](05-primary-research-plan.md); gaps are audited in [the evidence-gaps matrix](04-evidence-gaps.md).
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f7578-bbf8-74b1-b98e-f430f5b27ab5`
+- Log: `rollout-2026-07-18T15-44-34-019f7578-bbf8-74b1-b98e-f430f5b27ab5.jsonl`
+- This document: `add, update`
+- Search queries:
+  - None recorded.
+- Website domains:
+  - None recorded.
+
+### Session `019f7589-343f-74b3-a65e-b423e48d9776`
+- Log: `rollout-2026-07-18T16-02-33-019f7589-343f-74b3-a65e-b423e48d9776.jsonl`
+- This document: `update`
+- Search queries:
+  - `"Social Barriers Faced by Newcomers Placing Their First Contribution" PDF`
+  - `"Software selection in large-scale software engineering" Badampudi DOI`
+  - `site:give.org "Public Eye on Charitable Accountability" 2024 infographic`
+  - `site:give.org 2024 "Impact" donor trust special report infographic`
+  - `site:give.org/donor-trust-report "Public Eye on Charitable Accountability"`
+  - `site:give.org/news 2024 accountability donor trust how charity spends money truthful accurate 76% 73%`
+- Website domains:
+  - `creativecommons.org`
+  - `ctreude.ca`
+  - `dblp.org`
+  - `doi.org`
+  - `give.org`
+  - `igor.pro.br`
+  - `isr.uci.edu`
+  - `link.springer.com`
+  - `repositorio.usp.br`
+  - `researchgate.net`
+  - `sciencedirect.com`
+
+<!-- RESEARCH PROVENANCE: END -->

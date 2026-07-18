@@ -241,3 +241,18 @@ After 40–60 coded episodes, decide whether a survey/data study is warranted to
 - Compensate participants appropriately, protect sensitive organizational details, and avoid extracting unpaid troubleshooting or maintainer labor during research.
 - Report ranges and pattern boundaries, not invented rankings or market-size precision.
 - Preserve outcomes where Django was rejected, contribution stopped, funding declined, or a course was retired; these may represent successful job completion.
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f7578-bbf8-74b1-b98e-f430f5b27ab5`
+- Log: `rollout-2026-07-18T15-44-34-019f7578-bbf8-74b1-b98e-f430f5b27ab5.jsonl`
+- This document: `add`
+- Search queries:
+  - None recorded.
+- Website domains:
+  - None recorded.
+
+<!-- RESEARCH PROVENANCE: END -->

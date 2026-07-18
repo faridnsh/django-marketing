@@ -310,3 +310,159 @@ Other supplied hypotheses about donors, contributor recognition/governance and c
 10. How do student demand, willingness to pay, accessibility and completion differ between a course branded around Django and one framed around Python web development?
 11. How are AI-assisted coding and assessment changing whether institutions prefer integrated frameworks, lower-level construction, or oral/process-based evaluation?
 12. What direct objections do finance, accreditation, IT/security, accessibility, instructors, students and employers raise in the same real adoption decision?
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f756c-0ccf-7033-be8c-10352fa95ec2`
+- Log: `rollout-2026-07-18T15-30-43-019f756c-0ccf-7033-be8c-10352fa95ec2.jsonl`
+- This document: `add, update`
+- Search queries:
+  - `2025 Stack Overflow Developer Survey Python Django learning to code web frameworks official`
+  - `CS2023 curricular guidelines knowledge areas software engineering web development industry feedback`
+  - `CS2023 report curriculum framework web development frameworks competency industry perspectives PDF`
+  - `CS2023 survey results industry curricular priorities`
+  - `Coursera 2025 annual report content partners course development costs learner demand portfolio official`
+  - `Django curriculum bootcamp syllabus training provider Django official course`
+  - `Django job postings labor market data Lightcast Python web framework`
+  - `Django skill demand job postings report 2025`
+  - `Udemy 2025 annual report course marketplace learner demand content supply official`
+  - `coding bootcamp curriculum employer advisory board outcomes curriculum update`
+  - `coding bootcamp outcomes standards curriculum employer advisory council CIRR official`
+  - `computer science educators curriculum update barriers faculty expertise time framework teaching study`
+  - `computing curriculum industry relevance faculty workload course update technology education research`
+  - `computing degree student demand enrollment data 2024 computer science official`
+  - `online course development economics completion rates instructional design faculty workload research`
+  - `site:abet.org criteria accrediting computing programs curriculum 2025 computer science`
+  - `site:acm.org computing curricula CS2023 curricular guidelines industry employability`
+  - `site:acm.org computing educators survey curriculum barriers faculty professional development`
+  - `site:business.udemy.com curriculum skills demand course content official report`
+  - `site:coursera.org Django for Everybody enrolled learners rating University of Michigan`
+  - `site:cs50.harvard.edu web 2020 Django syllabus official`
+  - `site:docs.djangoproject.com security overview Django official protections`
+  - `site:docs.djangoproject.com supported versions release process Django official LTS 2026`
+  - `site:edx.org CS50 web Django enrollment learners`
+  - `site:github.blog Octoverse 2024 Python most used language official`
+  - `site:gov.uk Django Python developer apprenticeship standard curriculum`
+  - `site:jetbrains.com pycharm state of python 2024 Django web framework survey`
+  - `site:ocw.mit.edu Django course web development`
+  - `site:onetonline.org web developers Python Django technology skills`
+  - `site:qaa.ac.uk subject benchmark statement computing curriculum employers accreditation`
+  - `site:survey.stackoverflow.co/2024 technology Django Python learning to code`
+  - `site:www.djangoproject.com/community Django support channels forum official`
+  - `site:www.djangoproject.com/download supported versions Django LTS official`
+  - `student demand programming languages Python survey learners 2025 official education`
+  - `training provider course cancellation minimum enrollment economics policy`
+  - `training provider course portfolio decision market demand employer needs curriculum development report`
+  - `university course syllabus Django web development official .edu`
+  - `university new course approval curriculum committee business case student demand resources accreditation guidance`
+  - `web development curriculum framework choice instructor expertise university study`
+- Website domains:
+  - `acm.org`
+  - `adamj.eu`
+  - `advisor.uog.edu`
+  - `ageconsearch.umn.edu`
+  - `apps.ep.jhu.edu`
+  - `arxiv.org`
+  - `atlantafed.org`
+  - `axios.com`
+  - `bda-global.org`
+  - `blog.jetbrains.com`
+  - `charteroak.edu`
+  - `code.djangoproject.com`
+  - `code.org`
+  - `courseinfo.ligent.net`
+  - `coursera-assessments.s3.amazonaws.com`
+  - `coursera.org`
+  - `courses.cs.washington.edu`
+  - `cs.cmu.edu`
+  - `cs50.harvard.edu`
+  - `csed.acm.org`
+  - `digitalcommons.unl.edu`
+  - `django-denmark.org`
+  - `djangoproject.com`
+  - `docs.djangoproject.com`
+  - `docs.lightcast.io`
+  - `docs.python.org`
+  - `documents.worldbank.org`
+  - `documents1.worldbank.org`
+  - `doi.org`
+  - `educationalpolicy.admin.cam.ac.uk`
+  - `educause.edu`
+  - `edx.org`
+  - `en.wikipedia.org`
+  - `engineering.fb.com`
+  - `files.eric.ed.gov`
+  - `govinfo.gov`
+  - `graduateschool.edu`
+  - `hanoverresearch.com`
+  - `hesa.ac.uk`
+  - `ijaseit.insightsociety.org`
+  - `ijirt.org`
+  - `imarcgroup.com`
+  - `isedj.org`
+  - `itdl.org`
+  - `itpro.com`
+  - `kb.lightcast.io`
+  - `learningandwork.org.uk`
+  - `lightcast.io`
+  - `lp.jetbrains.com`
+  - `meta.stackoverflow.com`
+  - `naac.glsuniversity.ac.in`
+  - `ncses.nsf.gov`
+  - `oecd.org`
+  - `pdacek.ac.in`
+  - `policies.westernsydney.edu.au`
+  - `postman.com`
+  - `python.\n--------------------------------------------------------------------------------\ngetting`
+  - `python.org`
+  - `qaa.ac.uk`
+  - `reddit.com`
+  - `regionalcte.org`
+  - `resources.jetbrains.com`
+  - `ruzuku.com`
+  - `sciencedirect.com`
+  - `sevenmentor.com`
+  - `stackoverflow.blog`
+  - `stars.library.ucf.edu`
+  - `studentclearinghouse.org`
+  - `studylib.net`
+  - `suk.edu.in`
+  - `sukuna.edu.np`
+  - `survey.stackoverflow.co`
+  - `tandfonline.com`
+  - `techradar.com`
+  - `textbooks.cs.ksu.edu`
+  - `thedocs.worldbank.org`
+  - `time.com`
+  - `twitter.com`
+  - `typing.readthedocs.io`
+  - `udemy.com`
+  - `willcountyworkforceboard.com`
+
+### Session `019f7589-343f-74b3-a65e-b423e48d9776`
+- Log: `rollout-2026-07-18T16-02-33-019f7589-343f-74b3-a65e-b423e48d9776.jsonl`
+- This document: `update`
+- Search queries:
+  - `"Social Barriers Faced by Newcomers Placing Their First Contribution" PDF`
+  - `"Software selection in large-scale software engineering" Badampudi DOI`
+  - `site:give.org "Public Eye on Charitable Accountability" 2024 infographic`
+  - `site:give.org 2024 "Impact" donor trust special report infographic`
+  - `site:give.org/donor-trust-report "Public Eye on Charitable Accountability"`
+  - `site:give.org/news 2024 accountability donor trust how charity spends money truthful accurate 76% 73%`
+- Website domains:
+  - `creativecommons.org`
+  - `ctreude.ca`
+  - `dblp.org`
+  - `doi.org`
+  - `give.org`
+  - `igor.pro.br`
+  - `isr.uci.edu`
+  - `link.springer.com`
+  - `repositorio.usp.br`
+  - `researchgate.net`
+  - `sciencedirect.com`
+
+<!-- RESEARCH PROVENANCE: END -->

@@ -292,3 +292,100 @@ The Django survey’s “full-stack development” response describes a use case
 12. What do developers who migrated away from Django, or returned to it, say the underlying job and decisive switching forces were?
 13. How do geography, language, disability, connectivity, gender, race, and economic access change the full-stack evaluation and learning job?
 14. Can raw Django survey cross-tabs isolate full-stack respondents by experience, team size, front-end approach, deployment, learning channel, and contribution intent without creating misleading precision?
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f7541-49ec-76d3-bcfc-06de3323224d`
+- Log: `rollout-2026-07-18T14-44-00-019f7541-49ec-76d3-bcfc-06de3323224d.jsonl`
+- This document: `add, update`
+- Search queries:
+  - None recorded.
+- Website domains:
+  - `artefacts-discovery.researcher.life`
+  - `arxiv.org`
+  - `blog.jetbrains.com`
+  - `bth.diva-portal.org`
+  - `code.djangoproject.com`
+  - `coursera-assessments.s3.amazonaws.com`
+  - `creativecommons.org`
+  - `d-nb.info`
+  - `dam-cdn.atl.orangelogic.com`
+  - `data.mendeley.com`
+  - `developer.mozilla.org`
+  - `developers.ucdavis.edu`
+  - `django-deployments.readthedocs.io`
+  - `django-report-tools.readthedocs.io`
+  - `django.readthedocs.io`
+  - `djangoproject.com`
+  - `docs.djangoproject.com`
+  - `doi.org`
+  - `dora.dev`
+  - `dspace.library.uu.nl`
+  - `dspace.ut.ee`
+  - `en.wikipedia.org`
+  - `form.jotform.com`
+  - `forum.djangoproject.com`
+  - `frontiersin.org`
+  - `github.blog`
+  - `ijrpr.com`
+  - `infoq.com`
+  - `itpro.com`
+  - `jetbrains.com`
+  - `jetir.org`
+  - `link.springer.com`
+  - `linkedin.com`
+  - `lp.jetbrains.com`
+  - `mail-archive.com`
+  - `mdpi.com`
+  - `mobileworldcapital.com`
+  - `objectstorage.ap-dcc-gazipur-1.oraclecloud15.com`
+  - `pages.hackerrank.com`
+  - `peps.python.org`
+  - `pmc.ncbi.nlm.nih.gov`
+  - `preprints.org`
+  - `project-archive.inf.ed.ac.uk`
+  - `queue.acm.org`
+  - `queue.org.cn`
+  - `reddit.com`
+  - `research-portal.uu.nl`
+  - `research.google`
+  - `researchgate.net`
+  - `researchr.org`
+  - `resources.jetbrains.com`
+  - `sciencedirect.com`
+  - `siamakfarshidi.nl`
+  - `stackoverflow.blog`
+  - `stormvirux.github.io`
+  - `survey.stackoverflow.co`
+  - `symfony.com`
+  - `techguide.org`
+  - `techradar.com`
+  - `theseus.fi`
+
+### Session `019f7589-343f-74b3-a65e-b423e48d9776`
+- Log: `rollout-2026-07-18T16-02-33-019f7589-343f-74b3-a65e-b423e48d9776.jsonl`
+- This document: `update`
+- Search queries:
+  - `"Social Barriers Faced by Newcomers Placing Their First Contribution" PDF`
+  - `"Software selection in large-scale software engineering" Badampudi DOI`
+  - `site:give.org "Public Eye on Charitable Accountability" 2024 infographic`
+  - `site:give.org 2024 "Impact" donor trust special report infographic`
+  - `site:give.org/donor-trust-report "Public Eye on Charitable Accountability"`
+  - `site:give.org/news 2024 accountability donor trust how charity spends money truthful accurate 76% 73%`
+- Website domains:
+  - `creativecommons.org`
+  - `ctreude.ca`
+  - `dblp.org`
+  - `doi.org`
+  - `give.org`
+  - `igor.pro.br`
+  - `isr.uci.edu`
+  - `link.springer.com`
+  - `repositorio.usp.br`
+  - `researchgate.net`
+  - `sciencedirect.com`
+
+<!-- RESEARCH PROVENANCE: END -->

@@ -317,3 +317,106 @@ These are participation outcomes tied to jobs, not recommendations for marketing
 - Why do eligible DSF members vote or abstain, and which governance information changes participation?
 - How prevalent are burnout, guilt, harassment, review fatigue, and life-transition exits among Django contributors specifically?
 - Which channels actually originate first contributions? Current evidence validates channel roles but not attribution or relative volume.
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f7563-9575-71e1-bc40-bae5e09f57e1`
+- Log: `rollout-2026-07-18T15-21-28-019f7563-9575-71e1-bc40-bae5e09f57e1.jsonl`
+- This document: `add, update`
+- Search queries:
+  - None recorded.
+- Website domains:
+  - `2024.djangocon.eu`
+  - `alphaxiv.org`
+  - `apache.org`
+  - `api.github.com`
+  - `app.readthedocs.org`
+  - `archive.fosdem.org`
+  - `arxiv.org`
+  - `aserebre.win.tue.nl`
+  - `assets-eu.researchsquare.com`
+  - `biancatrink.github.io`
+  - `cdnc.heyzine.com`
+  - `citeseerx.ist.psu.edu`
+  - `cmustrudel.github.io`
+  - `code.djangoproject.com`
+  - `community.kde.org`
+  - `conf.researchr.org`
+  - `conservancy.umn.edu`
+  - `cs.cmu.edu`
+  - `debian.org`
+  - `developer.mozilla.org`
+  - `devolution.go.ke`
+  - `digitalcommons.wayne.edu`
+  - `django.readthedocs.io`
+  - `djangonaut.space`
+  - `djangoproject.com`
+  - `dl.ifip.org`
+  - `docs.django-cms.org`
+  - `docs.djangoproject.com`
+  - `documents1.worldbank.org`
+  - `doi.org`
+  - `en.wikipedia.org`
+  - `fedoraproject.org`
+  - `forum.djangoproject.com`
+  - `fr.wikipedia.org`
+  - `github.com`
+  - `github.github.com`
+  - `hacktoberfest.com†hacktoberfest.com`
+  - `igor.pro.br`
+  - `inria.hal.science`
+  - `journals.aom.org`
+  - `journals.plos.org`
+  - `jstage.jst.go.jp`
+  - `link.springer.com`
+  - `linuxfoundation.org`
+  - `lp.jetbrains.com`
+  - `media.oralhealthgroup.com`
+  - `minevaganti.org`
+  - `opencollective.com`
+  - `opengovpartnership.org`
+  - `opensource.com`
+  - `opensource.google`
+  - `opensourcesurvey.org`
+  - `pdfs.semanticscholar.org`
+  - `pure.tudelft.nl`
+  - `raw.githubusercontent.com`
+  - `reddit.com`
+  - `repositorio.usp.br`
+  - `research.tue.nl`
+  - `researchgate.net`
+  - `s3-eu-west-1.amazonaws.com`
+  - `sciencedirect.com`
+  - `ugspace.ug.edu.gh`
+  - `wiki.gnome.org`
+  - `wiki.mozilla.org`
+  - `wiki.ubuntu-women.org`
+  - `youtube.com`
+
+### Session `019f7589-343f-74b3-a65e-b423e48d9776`
+- Log: `rollout-2026-07-18T16-02-33-019f7589-343f-74b3-a65e-b423e48d9776.jsonl`
+- This document: `update`
+- Search queries:
+  - `"Social Barriers Faced by Newcomers Placing Their First Contribution" PDF`
+  - `"Software selection in large-scale software engineering" Badampudi DOI`
+  - `site:give.org "Public Eye on Charitable Accountability" 2024 infographic`
+  - `site:give.org 2024 "Impact" donor trust special report infographic`
+  - `site:give.org/donor-trust-report "Public Eye on Charitable Accountability"`
+  - `site:give.org/news 2024 accountability donor trust how charity spends money truthful accurate 76% 73%`
+- Website domains:
+  - `creativecommons.org`
+  - `ctreude.ca`
+  - `dblp.org`
+  - `doi.org`
+  - `give.org`
+  - `igor.pro.br`
+  - `isr.uci.edu`
+  - `link.springer.com`
+  - `repositorio.usp.br`
+  - `researchgate.net`
+  - `sciencedirect.com`
+
+<!-- RESEARCH PROVENANCE: END -->

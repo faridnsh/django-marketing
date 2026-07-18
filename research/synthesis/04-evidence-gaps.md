@@ -123,3 +123,18 @@ Stronger designs include matched comparison cases, within-person before/after ta
 7. **Channel sequences by lifecycle and role**: only after the episodes above supply concrete events to trace.
 
 These priorities use uncertainty × likely consequence; they do not imply future audience or marketing priority.
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f7578-bbf8-74b1-b98e-f430f5b27ab5`
+- Log: `rollout-2026-07-18T15-44-34-019f7578-bbf8-74b1-b98e-f430f5b27ab5.jsonl`
+- This document: `add`
+- Search queries:
+  - None recorded.
+- Website domains:
+  - None recorded.
+
+<!-- RESEARCH PROVENANCE: END -->

@@ -310,3 +310,154 @@ Donor, early-career learner, and contributor-recognition hypotheses are not cent
 - Is Django/Python talent genuinely hard or easy to source by geography, seniority, domain, clearance, and employment/contract model?
 - What do agencies and clients that rejected or replaced Django report, including successful non-adoption and failed Django engagements?
 - Do contribution and DSF funding produce measurable delivery, hiring, reputation, or dependency-risk value for specialist agencies, and who approves that spend?
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f7553-5611-72d2-a272-d58d5c9eeb69`
+- Log: `rollout-2026-07-18T15-03-43-019f7553-5611-72d2-a272-d58d5c9eeb69.jsonl`
+- This document: `add, update`
+- Search queries:
+  - `2024 Django developers survey results framework professional use clients agency`
+  - `2025 digital agency industry report profitability utilization fixed fee retainer client acquisition Promethean Research`
+  - `Django Developers Survey 2025 official results JetBrains agency freelance`
+  - `Django consultancy case study agency handover client team open source`
+  - `Django survey 2025 using Django at work professional developer percentage`
+  - `UK government Digital Data Technology sourcing playbook outcomes agile procurement supplier guidance`
+  - `client agency software handover source code ownership maintainability procurement guidance`
+  - `digital agency survey 2024 client relationships project based retainer report`
+  - `open source software selection criteria enterprise survey support community security 2024 report`
+  - `outsourced software development client vendor selection criteria study communication trust competence`
+  - `professional services client buying survey consulting firm referrals expertise case studies`
+  - `site:blog.jetbrains.com/pycharm 2025 Django Developers Survey results 4600`
+  - `site:caktusgroup.com/blog Django agency why Django client project maintainability`
+  - `site:docs.djangoproject.com security Django overview vulnerabilities deployment checklist`
+  - `site:docs.djangoproject.com/en/5.2/releases/5.2 LTS support April 2028`
+  - `site:gov.uk service standard multidisciplinary team supplier digital service`
+  - `site:gov.uk spend controls technology choose open source software`
+  - `site:gov.uk technology code of practice open source avoid vendor lock-in procurement`
+  - `site:gov.uk/government/publications/contracting-for-agile-guidance-note agile contract supplier delivery outcomes 2023`
+  - `site:lincolnloop.com case study Django agency long term maintenance client`
+  - `site:lincolnloop.com/blog Django agency project architecture client`
+  - `site:lp.jetbrains.com/django-developer-survey-2025 results deployment cloud databases team size`
+  - `site:revsys.com/tidbits consulting Django client upgrade project`
+  - `site:sixfeetup.com/blog Django client project case study maintainability`
+  - `site:torchbox.com client Wagtail Django procurement accessibility case study technical decision`
+  - `site:torchbox.com/blog Django why we use Django agency client`
+  - `site:www.djangoproject.com/download/ supported versions Django LTS security`
+  - `site:www.djangoproject.com/foundation/corporate-members membership corporate Django support`
+  - `software consultancy framework selection client requirements maintainability case study Django agency`
+  - `software framework selection criteria practitioners study community documentation maintainability security web framework`
+  - `software outsourcing success factors client vendor communication knowledge transfer empirical study`
+  - `survey buyers choose software development agency referrals case studies technical expertise 2024`
+- Website domains:
+  - `5qgroup.com`
+  - `agilemanifesto.org`
+  - `artefacts-discovery.researcher.life`
+  - `arxiv.org`
+  - `assets.applytosupply.digitalmarketplace.service.gov.uk`
+  - `assets.publishing.service.gov.uk`
+  - `axios.com`
+  - `bitkom.org`
+  - `blog.jetbrains.com`
+  - `caktusgroup.com`
+  - `citeseerx.ist.psu.edu`
+  - `clickmasterssoftwaredevelopmentcompany.co.uk`
+  - `cognitiveconvergence.com`
+  - `committees.parliament.uk`
+  - `companyname`
+  - `comum.rcaap.pt`
+  - `cuh.staging.torchbox.com`
+  - `digiqt.com`
+  - `digital-handbook.cabinetoffice.gov.uk`
+  - `digitalcommons.memphis.edu`
+  - `digitalmarketplace.service.gov.uk`
+  - `diva-portal.org`
+  - `djangoproject.com`
+  - `docs.djangoproject.com`
+  - `docs.italia.it`
+  - `doi.org`
+  - `en.wikipedia.org`
+  - `engineering.fb.com`
+  - `engineering.homeoffice.gov.uk`
+  - `england.nhs.uk`
+  - `forrester.com`
+  - `gca.gov.uk`
+  - `github.com`
+  - `gov.uk`
+  - `hackerrank.com`
+  - `iadisportal.org`
+  - `itpro.com`
+  - `jetbrains.com`
+  - `khub.net`
+  - `kiplinger.com`
+  - `koder.ai`
+  - `learn.caktusgroup.com`
+  - `lincolnloop.com`
+  - `link.springer.com`
+  - `linuxfoundation.org`
+  - `lp.jetbrains.com`
+  - `nao.org.uk`
+  - `opensourcesurvey.org`
+  - `oulurepo.oulu.fi`
+  - `perforce.com`
+  - `pmc.ncbi.nlm.nih.gov`
+  - `promethean-research.com`
+  - `prometheanresearch.com`
+  - `prweb.com`
+  - `pure.tudelft.nl`
+  - `reddit.com`
+  - `reports.sourceglobalresearch.com`
+  - `research.prometheanresearch.com`
+  - `researchgate.net`
+  - `resources.jetbrains.com`
+  - `revsys.com`
+  - `romisatriawahono.net`
+  - `routiine.io`
+  - `scholarworks.gnu.ac.kr`
+  - `sciencedirect.com`
+  - `security.gov.uk`
+  - `sixfeetup.com`
+  - `sixfeetup.com.\n\n`
+  - `squ.elsevierpure.com`
+  - `stepto.net`
+  - `surveys.jetbrains.com`
+  - `swfconsults.co.uk`
+  - `talkthinkdo.com`
+  - `tandfonline.com`
+  - `tech-radar.justice.gov.uk`
+  - `technology.blog.gov.uk`
+  - `techradar.com`
+  - `thedrum.com`
+  - `torchbox.com`
+  - `uhra.herts.ac.uk`
+  - `virtuoustechlogic.com`
+  - `whitehouse.gov`
+  - `cite38†agilemanifesto.org`
+
+### Session `019f7589-343f-74b3-a65e-b423e48d9776`
+- Log: `rollout-2026-07-18T16-02-33-019f7589-343f-74b3-a65e-b423e48d9776.jsonl`
+- This document: `update`
+- Search queries:
+  - `"Social Barriers Faced by Newcomers Placing Their First Contribution" PDF`
+  - `"Software selection in large-scale software engineering" Badampudi DOI`
+  - `site:give.org "Public Eye on Charitable Accountability" 2024 infographic`
+  - `site:give.org 2024 "Impact" donor trust special report infographic`
+  - `site:give.org/donor-trust-report "Public Eye on Charitable Accountability"`
+  - `site:give.org/news 2024 accountability donor trust how charity spends money truthful accurate 76% 73%`
+- Website domains:
+  - `creativecommons.org`
+  - `ctreude.ca`
+  - `dblp.org`
+  - `doi.org`
+  - `give.org`
+  - `igor.pro.br`
+  - `isr.uci.edu`
+  - `link.springer.com`
+  - `repositorio.usp.br`
+  - `researchgate.net`
+  - `sciencedirect.com`
+
+<!-- RESEARCH PROVENANCE: END -->

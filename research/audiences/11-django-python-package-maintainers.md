@@ -323,3 +323,77 @@ These are audience actions tied to jobs, not proposed campaigns or assets:
 - How do underrepresented maintainers experience recognition, mentoring, toxicity, and access to paid time? Current survey samples are not adequate.
 - How do former maintainers describe the point at which a pause, transfer, deprecation, or archive intervention would have helped?
 - Which wider Python-package maintainers see Django as a meaningful downstream community, and which would regard Django outreach as irrelevant noise?
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f7556-ba05-7162-a1af-5b90c5a80b2c`
+- Log: `rollout-2026-07-18T15-07-25-019f7556-ba05-7162-a1af-5b90c5a80b2c.jsonl`
+- This document: `add, update`
+- Search queries:
+  - None recorded.
+- Website domains:
+  - `arxiv.org`
+  - `baseline.openssf.org`
+  - `better-simple.com`
+  - `blog.pypi.org`
+  - `cdn.ymaws.com`
+  - `chaoss.community`
+  - `cir.nii.ac.jp`
+  - `cmustrudel.github.io`
+  - `cncf.io`
+  - `connectedpapers.com`
+  - `cs.cmu.edu`
+  - `data.world`
+  - `devguide.python.org`
+  - `dirkriehle.com`
+  - `django-afip.readthedocs.io`
+  - `django-commons.org`
+  - `django-configurations.readthedocs.io`
+  - `django-improved-user.readthedocs.io`
+  - `django-package-compatibility-matrix.glitch.me`
+  - `django.readthedocs.io`
+  - `djangopackages.org`
+  - `djangoproject.com`
+  - `djls.joshthomas.dev`
+  - `dl.acm.org`
+  - `docs.django-cms.org`
+  - `docs.djangoproject.com`
+  - `doi.org`
+  - `downloads.regulations.gov`
+  - `emergentmind.com`
+  - `en.wikipedia.org`
+  - `es.wikipedia.org`
+  - `forum.djangoproject.com`
+  - `github.com`
+  - `gitlab.com`
+  - `ideas.repec.org`
+  - `jazzband.co`
+  - `jstage.jst.go.jp`
+  - `linuxfoundation.org`
+  - `media.oralhealthgroup.com`
+  - `medium.com`
+  - `openssf.org`
+  - `packaging.pypa.io`
+  - `packaging.python.org`
+  - `pypi.org`
+  - `reddit.com`
+  - `repositorio.ufmg.br`
+  - `researchgate.net`
+  - `ru.wikipedia.org`
+  - `sciencedirect.com`
+  - `scispace.com`
+  - `scribd.com`
+  - `sonarsource.com`
+  - `subscription.packtpub.com`
+  - `sustainoss.org`
+  - `sysnet.ucsd.edu`
+  - `techradar.com`
+  - `theopensourceway.org`
+  - `tidelift.com`
+  - `wagtail.org`
+  - `youtu.be`
+
+<!-- RESEARCH PROVENANCE: END -->

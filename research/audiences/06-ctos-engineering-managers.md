@@ -302,3 +302,119 @@ Claims about individual donors, early-career learners, and contributor recogniti
 12. Which emotional/social jobs are real rather than researcher projection?
 
 The highest-priority gap is **comparative interviews around a recent consequential decision**, sampled across early founder-CTOs, growth leaders, engineering managers with and without approval authority, large-company governance owners, incumbent Django stewards, rejecters, and former users. Existing evidence is strong on general selection method and project facts, moderate on current-user behavior and production possibilities, and weak on causal leader motivations and internal approval systems.
+
+<!-- RESEARCH PROVENANCE: BEGIN -->
+## Research provenance
+
+This section was generated from the recorded Codex session JSONL logs. File attribution uses successful patch events; searches and domains use nested web-tool calls.
+
+### Session `019f7543-711e-72d0-9647-9cccd33a1be0`
+- Log: `rollout-2026-07-18T14-46-21-019f7543-711e-72d0-9647-9cccd33a1be0.jsonl`
+- This document: `add, update`
+- Search queries:
+  - None recorded.
+- Website domains:
+  - `2022.djangocon.us`
+  - `administraciondesistemas.com`
+  - `antler.co`
+  - `apache.org`
+  - `arxiv.org`
+  - `assets.ctfassets.net`
+  - `axios.com`
+  - `blog.ahmadwkhan.com`
+  - `blog.clubhouse.com`
+  - `blog.sentry.io`
+  - `botreetechnologies.com`
+  - `cabird.com`
+  - `careersatdoordash.com`
+  - `ceur-ws.org`
+  - `code.djangoproject.com`
+  - `cortex.io`
+  - `datadrivendaily.com`
+  - `dejawu.me`
+  - `django.ac.cn`
+  - `djangobook.py3k.cn`
+  - `djangochat.com`
+  - `djangoproject.com`
+  - `docs.djangoproject.com`
+  - `doi.org`
+  - `dokk.org`
+  - `dora.dev`
+  - `dspace.library.uu.nl`
+  - `eliot.blog`
+  - `en.wikipedia.org`
+  - `engineering.kraken.tech`
+  - `fcto.ai`
+  - `forrester.com`
+  - `gartner.com`
+  - `github.com`
+  - `hapy.co`
+  - `i-programmer.info`
+  - `incaseofstairs.com`
+  - `itpro.com`
+  - `jellyfish.co`
+  - `jetbrains.com`
+  - `johnkealy.com`
+  - `link.springer.com`
+  - `linuxfoundation.org`
+  - `llamaindex.ai`
+  - `lp.jetbrains.com`
+  - `media.djangoproject.com`
+  - `medium.com`
+  - `microsoft.com`
+  - `mudassirkhan.me`
+  - `nimble.gt`
+  - `openlogic.com`
+  - `opensource.org`
+  - `papers.ssrn.com`
+  - `planeks.net`
+  - `pure.tudelft.nl`
+  - `pyfound.blogspot.com`
+  - `reddit.com`
+  - `reintech.io`
+  - `research.chalmers.se`
+  - `russellreynolds.com`
+  - `sciencedirect.com`
+  - `scitepress.org`
+  - `sentry.engineering`
+  - `sixfeetup.com.\n\n`
+  - `solidmatics.com`
+  - `sonatype.com`
+  - `startups.com`
+  - `stepchange.work`
+  - `storn.co`
+  - `survey.stackoverflow.co`
+  - `tandfonline.com`
+  - `techradar.com`
+  - `tier.engineering`
+  - `tomshardware.com`
+  - `trio.dev`
+  - `ubuntu.com`
+  - `windowscentral.com`
+  - `witarist.com`
+  - `youtube.com`
+
+### Session `019f7589-343f-74b3-a65e-b423e48d9776`
+- Log: `rollout-2026-07-18T16-02-33-019f7589-343f-74b3-a65e-b423e48d9776.jsonl`
+- This document: `update`
+- Search queries:
+  - `"Social Barriers Faced by Newcomers Placing Their First Contribution" PDF`
+  - `"Software selection in large-scale software engineering" Badampudi DOI`
+  - `site:give.org "Public Eye on Charitable Accountability" 2024 infographic`
+  - `site:give.org 2024 "Impact" donor trust special report infographic`
+  - `site:give.org/donor-trust-report "Public Eye on Charitable Accountability"`
+  - `site:give.org/news 2024 accountability donor trust how charity spends money truthful accurate 76% 73%`
+- Website domains:
+  - `creativecommons.org`
+  - `ctreude.ca`
+  - `dblp.org`
+  - `doi.org`
+  - `give.org`
+  - `igor.pro.br`
+  - `isr.uci.edu`
+  - `link.springer.com`
+  - `repositorio.usp.br`
+  - `researchgate.net`
+  - `sciencedirect.com`
+
+<!-- RESEARCH PROVENANCE: END -->
