@@ -36,7 +36,7 @@ These are bounded propositions for later inventory, alternatives, positioning, a
 
 **Hypothesis:** Real alternatives are not limited to other web frameworks; teams may buy a service, postpone, keep the incumbent, use an organizational platform, isolate a workload, add a separate client, decompose, or archive.
 
-**Provenance:** Contextual choice logic in [backend engineers](../audiences/03-experienced-backend-engineers.md), [startups](../audiences/07-startups-technical-decision-makers.md), [large organizations](../audiences/08-large-organizations-stakeholders.md), [former users](../audiences/14-former-django-users.md), and [maintainers](../audiences/11-django-python-package-maintainers.md). **Current confidence:** High. **Key caveat:** public evidence overrepresents technology-to-technology migrations. **Test:** Studies 1 and 2 with explicit no-build/buy/continue recruitment; later alternatives analysis should compare progress paths, not only named frameworks.
+**Provenance:** Contextual choice logic in [backend engineers](../audiences/03-experienced-backend-engineers.md), [startups](../audiences/07-startups-technical-decision-makers.md), [large organizations](../audiences/08-large-organizations-stakeholders.md), and [former users](../audiences/14-former-django-users.md). **Current confidence:** High. **Key caveat:** public evidence overrepresents technology-to-technology migrations. **Test:** Studies 1 and 2 with explicit no-build/buy/continue recruitment; later alternatives analysis should compare progress paths, not only named frameworks.
 
 ### H6 — Integrated capabilities trade assembly cost now against coupled change later
 
