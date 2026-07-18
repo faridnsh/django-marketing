@@ -37,6 +37,15 @@ The important job hierarchy is below. Emotional and social jobs are included onl
 | **Reach safe production without becoming an accidental sysadmin** | Move from local development to a secure, observable deployment | Avoid the deflation of “it works locally” becoming a new maze | Avoid exposing users or collaborators to preventable risk | Select hosting; configure WSGI/ASGI, static files, secrets, HTTPS, database, errors, and checks | **Direct qualitative and documentation evidence; High confidence that deployment is a transition cliff.** |
 | **Get unstuck and continue learning** | Find a trustworthy answer appropriate to the current version and context | Preserve confidence and belonging | Receive help without appearing careless or incompetent *(hypothesis)* | Search docs; compare examples; form a reproducible question; consult peers/mentors; verify AI output | **Direct survey evidence; High confidence generally, Medium for Django-specific behavior.** |
 
+In full audience-progress form:
+
+1. **Deliver a first real web application:** When an idea needs to become usable by other people, I want to turn it into a working browser or API experience with data and users, so I can prove I can build and change a real web application rather than only follow examples.
+2. **Acquire a transferable web mental model:** When web concepts and framework behavior are unfamiliar, I want to understand the request, browser/server, data, authentication, asset, and deployment boundaries, so I can reason and debug independently across them.
+3. **Choose a viable first web stack:** When I must choose how to build a first web application, I want to test an integrated Python framework against my project, learning, maintenance, security, and deployment needs, so I can make a fitting choice without mistaking familiarity or popularity for evidence.
+4. **Produce credible capability evidence:** When another person needs to assess my web-development ability, I want to complete, deploy, and explain a project I have changed beyond a clone, so I can demonstrate transferable capability rather than tutorial completion.
+5. **Reach safe production without becoming an accidental sysadmin:** When a locally working application must serve real users, I want a bounded path through secure and observable production responsibilities, so I can deploy without exposing users or taking on operational work I do not understand.
+6. **Get unstuck and continue learning:** When an error or unfamiliar concept blocks progress, I want a trustworthy answer appropriate to my version and context, so I can continue while preserving understanding and ownership.
+
 ## Functional, emotional, and social dimensions
 
 - **Functional:** reach a modifiable user flow without re-solving common web concerns, then cross the local-to-production boundary. **[Direct facts plus inference; High confidence.]** Perceived value still requires testing.

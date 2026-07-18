@@ -18,7 +18,7 @@ The Django label is not the boundary. The 2025 Django Developers Survey found 80
 - **Maintainers of established applications:** switching cost, upgrade safety, production diagnosis, and incremental modernization matter more than first-project speed.
 - **Regulated, security-sensitive, or high-scale contexts:** evidence, reviewability, supported versions, integration constraints, and operational behavior may outweigh convenience.
 
-These segments can overlap. Evidence is strongest for already-engaged Django professionals and Stack Overflow respondents, and weak for full-stack developers who considered and rejected Django, developers outside English-language channels, and organization-specific approval contexts. (Segmentation synthesis: inference; confidence: Medium.)
+Segments overlap. Evidence is strongest for engaged Django users and Stack Overflow respondents, and weak for Django rejecters, developers outside English-language channels, and organization-specific approval contexts. (Inference; confidence: Medium.)
 
 ## Primary job to be done
 
@@ -33,9 +33,9 @@ The core progress is dependable end-to-end delivery. Server-side frameworks redu
 1. **Reduce integration and coordination work:** When a feature crosses UI, server, data, authentication, and deployment, I want compatible conventions and clear interfaces, so I can spend more effort on product behavior than glue. **Dimensions:** functional core; emotional support through lower cognitive load. Integration is a directly evidenced selection category; Django priority is inferred. Confidence: Medium-High.
 2. **Make a fit-for-context stack decision:** When starting or changing an application, I want to test realistic use cases against technical, organizational, cost, and ecosystem constraints, so I can recommend a defensible choice. **Dimensions:** functional core; hypothesized social credibility. Industry studies find selection multi-criteria and often ad hoc ([Farshidi, Jansen & Deldar, 2021](https://research-portal.uu.nl/en/publications/a-decision-model-for-programming-language-ecosystem-selection-sev/); [Bjarnason, Åberg & bin Ali, 2023](https://link.springer.com/article/10.1007/s10664-023-10288-w)). Confidence: High functionally.
 3. **Learn the next layer without losing momentum:** When the feature requires an unfamiliar framework feature, browser technique, deployment system, or operational practice, I want trustworthy, searchable guidance and quick feedback, so I can become independently effective. **Dimensions:** functional core; emotional support. In Stack Overflow’s 2025 survey, 69.1% said they had learned a new coding technique or language in the prior year; technical documentation was the most-used learning resource (67.8%). Confidence: High for continuous learning, Medium for its exact full-stack form.
-4. **Protect changeability:** When the application changes substantially, I want understandable conventions, tests, upgrades, and boundaries, so today’s speed does not become tomorrow’s maintenance trap. **Dimensions:** functional core; emotional confidence. Broader research connects understanding, feedback, and documentation with perceived productivity and technical debt ([Kalliamvakou & GitHub, 2024](https://github.blog/news-insights/research/good-devex-increases-productivity/)). Confidence: Medium-High.
-5. **Ship and recover safely:** When code leaves my laptop, I want a reproducible path to configure, deploy, observe, debug, patch, and roll back it, so users are protected and incidents are bounded. **Dimensions:** functional core; emotional support through reduced fear of production. DORA emphasizes robust testing and delivery stability even where AI raises individual productivity ([2024 Accelerate State of DevOps](https://dora.dev/research/2024/dora-report/)); Django survey behavior spans containers, CI, VMs, PaaS, and log/debug workflows. Confidence: High for the general job, Medium for Django-specific friction.
-6. **Demonstrate end-to-end capability:** When seeking a role, responsibility, or client trust, I want a working application I can explain and operate, so others can assess my ability beyond isolated exercises. **Dimensions:** functional and social core; emotional support through confidence. This is plausible for the early-career subsegment, but the reviewed sources do not directly measure Django portfolio-to-employment outcomes. Confidence: Low-Medium; hypothesis requiring research.
+4. **Protect changeability:** When the application changes substantially, I want understandable conventions, tests, upgrades, and boundaries, so I can keep today’s speed from becoming tomorrow’s maintenance trap. **Dimensions:** functional core; emotional confidence. Broader research connects understanding, feedback, and documentation with perceived productivity and technical debt ([Kalliamvakou & GitHub, 2024](https://github.blog/news-insights/research/good-devex-increases-productivity/)). Confidence: Medium-High.
+5. **Ship and recover safely:** When code leaves my laptop, I want a reproducible path to configure, deploy, observe, debug, patch, and roll it back, so I can protect users and bound incidents. **Dimensions:** functional core; emotional support through reduced fear of production. DORA emphasizes robust testing and delivery stability even where AI raises individual productivity ([2024 Accelerate State of DevOps](https://dora.dev/research/2024/dora-report/)); Django survey behavior spans containers, CI, VMs, PaaS, and log/debug workflows. Confidence: High for the general job, Medium for Django-specific friction.
+6. **Demonstrate end-to-end capability:** When seeking a role, responsibility, or client trust, I want a working application I can explain and operate, so I can give others credible evidence of my ability beyond isolated exercises. **Dimensions:** functional and social core; emotional support through confidence. This is plausible for the early-career subsegment, but the reviewed sources do not directly measure Django portfolio-to-employment outcomes. Confidence: Low-Medium; hypothesis requiring research.
 
 ## Functional, emotional, and social dimensions
 
@@ -62,7 +62,7 @@ The core progress is dependable end-to-end delivery. Server-side frameworks redu
 - Allow a developer to become productive in an unfamiliar layer without prolonged dependency on a specialist.
 - Preserve the option to add richer client interaction, APIs, async behavior, or operational tooling when the actual product requires it.
 
-These are directionally measurable outcomes, not numeric benchmarks justified for all projects. DORA’s delivery measures and the DevEx constructs of flow, cognitive load, and feedback offer measurement families; no reviewed evidence establishes Django-specific target values. Confidence: Medium.
+These are directional, not universal numeric targets. DORA delivery measures and DevEx constructs offer measurement families; no reviewed evidence establishes Django-specific targets. Confidence: Medium.
 
 ## Current behaviour or status quo
 
@@ -110,18 +110,17 @@ The Django Forum thread asking how to embed React while keeping a monolith ident
 
 ## Habits and inertia
 
-- Existing language and framework fluency makes the familiar stack faster and safer in the short term. MDN explicitly advises that a team with significant existing framework/language experience has reason to stay with it.
-- Starter repositories, platform templates, company standards, CI, monitoring, and deployment automation embed prior choices.
-- Reusable authentication, UI components, packages, and internal expertise compound switching cost.
-- Developers may use popularity, recent online enthusiasm, or a trusted colleague as a shortcut because a full multi-criteria evaluation is costly.
-- Tutorial completion can be mistaken for production fit; conversely, one painful past project can become an overly broad veto.
-- Existing Django maintainers may postpone upgrades while the application works, until support or dependency deadlines create urgency.
+- Existing fluency makes the familiar stack faster and safer initially; MDN explicitly notes that teams have reason to retain a framework/language they know.
+- Starter repositories, standards, CI, monitoring, deployment automation, reusable components, and internal expertise embed prior choices.
+- Popularity or trusted-peer advice becomes a shortcut because multi-criteria evaluation is costly.
+- Tutorial success can be mistaken for production fit; one painful project can become an overbroad veto.
+- Maintainers may postpone upgrades until support or dependency deadlines force action.
 
-These behaviors are inference from selection studies, team-experience guidance, and switching-cost logic. No source reviewed quantifies their relative strength for Django. Confidence: Medium.
+These are inferences from selection studies and switching-cost logic; their Django-specific strength is unquantified. Confidence: Medium.
 
 ## Decision criteria
 
-There is no evidence for one universal ranking. The following importance tiers synthesize direct framework-selection research, MDN guidance, DevEx research, and observed Django practice.
+No universal ranking is evidenced. These tiers synthesize selection research, MDN guidance, DevEx research, and Django practice.
 
 **Usually high importance / Medium-High confidence:**
 
@@ -144,7 +143,7 @@ There is no evidence for one universal ranking. The following importance tiers s
 
 - Market visibility, résumé signaling, perceived modernity, enterprise references, and personal enjoyment. These may influence adoption, but reviewed sources do not establish their rank for this audience.
 
-Farshidi et al. identified 164 ecosystem criteria and found priorities depend on project requirements; Bjarnason et al. group assessment around market strength, strategy/culture, productivity, quality, and integration, then evaluate cost, legal, ethical, and control concerns. That breadth is evidence against a generic feature checklist or popularity ranking. Confidence: High.
+Farshidi et al. identified 164 ecosystem criteria whose priority depends on project requirements; Bjarnason et al. cover market strength, strategy/culture, productivity, quality, integration, cost, legal, ethical, and control concerns. This argues against a generic popularity ranking. Confidence: High.
 
 ## Main concerns
 
@@ -162,13 +161,13 @@ Farshidi et al. identified 164 ecosystem criteria and found priorities depend on
 
 ## Objections and perceived risks
 
-- **“Django is primarily back end, so it does not solve my full-stack job.”** Partly a category mismatch. Django directly covers server-rendered UI and many application services; current users report dominant full-stack use. It does not replace CSS, browser knowledge, design work, or a rich client framework when those are required.
-- **“Modern front-end integration is awkward.”** A legitimate concern for some architectures. The 2024 Django Forum signal asks for best practice around embedded React, builds, and communication. The survey demonstrates coexistence but does not measure integration satisfaction or effort.
-- **“Deployment has too many choices and too little certainty.”** Legitimate cross-stack burden. Django users report many clouds and runtime models, and isolated forum threads expose confusion; neither proves Django deployment is worse than alternatives.
-- **“It will not handle scale, async, or realtime work.”** Requires workload-specific evidence. MDN cautions that runtime speed is often not the main selection factor and must be weighed against learning and maintenance; Django survey adoption of ASGI and async tools shows use, not adequacy for every workload.
-- **“The ecosystem is old or not career-relevant.”** Perception and context, not established fact. Stack Overflow’s 2025 survey records Django use, while the Django survey is dominated by professionals; neither answers local job demand or the return on learning it.
-- **“Included security makes the app secure.”** Misconception. Framework defaults and an active security process reduce some risk, but configuration, application logic, dependencies, infrastructure, and timely upgrades remain the developer’s job.
-- **“AI can generate the whole stack, so framework learning matters less.”** Unsupported as a production conclusion. DORA finds productivity gains with stability trade-offs; human understanding, testing, and feedback remain necessary.
+- **“Django is primarily back end.”** Partly a category mismatch: Django covers server-rendered UI and application services but not CSS, design, browser knowledge, or every rich-client need.
+- **“Modern front-end integration is awkward.”** Legitimate in some architectures. A 2024 Forum thread asks about embedded React, builds, and communication; survey coexistence does not measure integration effort.
+- **“Deployment has too many choices.”** Legitimate cross-stack burden. Varied cloud/runtime use and isolated forum confusion do not prove Django is worse than alternatives.
+- **“It will not handle scale, async, or realtime.”** Requires workload evidence. ASGI/async adoption shows use, not adequacy; runtime must be weighed against learning and maintenance.
+- **“The ecosystem is old or career-irrelevant.”** Unestablished. Surveyed use and professional incumbency do not answer local job demand or learning returns.
+- **“Included security makes the app secure.”** Misconception: configuration, application logic, dependencies, infrastructure, and timely upgrades remain developer responsibilities.
+- **“AI makes framework learning unnecessary.”** Unsupported in production. DORA finds productivity gains with stability trade-offs; understanding, testing, and feedback remain necessary.
 
 ## Information needed to make progress
 
@@ -183,7 +182,7 @@ Farshidi et al. identified 164 ecosystem criteria and found priorities depend on
 - Team-fit evidence: who learns what, specialist collaboration boundaries, code ownership, onboarding exercise, and local hiring constraints.
 - A prototype scorecard tied to requirements, recording failures and trade-offs as well as time-to-first-success.
 
-This list is a direct/inferred synthesis from industry selection processes, Django behavior, deployment discussions, and DevEx evidence. Confidence: Medium-High.
+This is a mixed direct/inferred synthesis; confidence: Medium-High.
 
 ## Trusted content formats
 
@@ -196,7 +195,7 @@ This list is a direct/inferred synthesis from industry selection processes, Djan
 - **Forum answers, issue threads, and peer code review** resolve edge cases and expose failure modes, but isolated posts are qualitative.
 - **Video talks and live demonstrations** build mental models and aid discovery; written artifacts remain easier to search during implementation.
 
-Use is directly supported: 79% of Django survey respondents preferred djangoproject.com for learning, 39% Stack Overflow, 38% AI tools, 38% YouTube, 33% blogs, 22% books, and 13% friends/coworkers. These percentages are not trust scores and not full-stack-only. Format-to-job mapping is inference; confidence: Medium-High.
+Use is directly supported: 79% of Django respondents preferred djangoproject.com for learning, 39% Stack Overflow, 38% AI, 38% YouTube, 33% blogs, 22% books, and 13% friends/coworkers. These are neither trust scores nor full-stack-only. Format mapping is inferred; confidence: Medium-High.
 
 ## Discovery, evaluation, validation, and engagement channels
 
@@ -205,7 +204,7 @@ Use is directly supported: 79% of Django survey respondents preferred djangoproj
 - **Validation:** tests, security/release policy, issue history, realistic benchmarks, production references with detail, platform/security review, and experienced peer review reduce adoption risk. Enterprise testimonials alone are insufficient evidence; no reviewed source measures their influence on full-stack developers.
 - **Ongoing engagement:** versioned docs, release and security announcements, djangoproject.com, Django Forum, Stack Overflow, newsletters/RSS, Discord, code/issue workflows, local meetups, conferences, and podcasts serve different maintenance and learning needs. The Django survey directly reports following behavior: djangoproject.com 60%, YouTube 22%, Stack Overflow and Reddit 18% each, Django Forum 15%, newsletter 12%, podcasts and X 7% each, Discord 6%, and 18% not following development. Only 29% had attended a Django event or meetup, so conferences cannot be treated as a broad default channel.
 
-The survey validates docs/site, forum, Discord, Q&A, newsletter, podcasts, friends, community platforms, and events as behaviors among current Django users. It does not separately report full-stack respondents, distinguish discovery from ongoing use, or validate GitHub issue tracker and professional networks in the same question. Confidence: High for reported use, Medium-Low for stage assignment.
+The survey validates these behaviors among current users, but neither isolates full-stack respondents nor distinguishes discovery from ongoing use. GitHub/issue-tracker and professional-network behavior remain unvalidated here. Confidence: High for use, Medium-Low for stage assignment.
 
 ## Decision-makers and influencers
 

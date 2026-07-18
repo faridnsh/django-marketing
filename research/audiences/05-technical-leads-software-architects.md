@@ -4,17 +4,17 @@
 
 This audience consists of people accountable for the technical direction of a product, service, platform, or portfolio who may evaluate Django as part of an application architecture. Titles include technical lead, lead engineer, staff/principal engineer, solution architect, software architect, platform architect, and—especially in smaller organizations—CTO or engineering manager. Their common boundary is responsibility for consequential, cross-cutting choices: fitness to requirements, system qualities, delivery constraints, operational ownership, and the decision's future cost.
 
-The label is a role-in-context, not a demographic or a single buyer persona. A hands-on lead in a six-person startup can initiate, evaluate, approve, and use a stack. In a regulated enterprise, the evaluator may only recommend; security, enterprise architecture, platform, procurement, finance, and an accountable service owner can approve or block different aspects. The UK Government service manual describes technical architects as working with delivery teams and third parties on requirements and ensuring systems are robust, scalable, open, and secure; it separately assigns final service quality responsibility to the service owner. This supports keeping technical evaluation distinct from economic and risk approval ([GOV.UK, role guidance, updated 2024](https://www.gov.uk/service-manual/the-team/service-manager.html)). **Direct evidence; High confidence** for complex public-sector organizations, with **Medium confidence** when generalized across industries.
+The label is a role-in-context, not a demographic or a single buyer persona. A startup lead can initiate, evaluate, approve, and use a stack; an enterprise evaluator may only recommend while security, architecture, platform, procurement, finance, and a service owner approve or block aspects. The UK Government service manual says technical architects work with teams and third parties on robust, scalable, open, secure systems, while the service owner retains final service-quality responsibility ([GOV.UK, role guidance, updated November 6, 2023](https://www.gov.uk/service-manual/the-team/what-each-role-does-in-service-team)). **Direct evidence; High confidence** for complex public-sector organizations and **Medium confidence** across industries.
 
 Included are greenfield selection, approval of an organizational standard or exception, inherited-Django stewardship, modernization, and “stay, evolve, or migrate” decisions. Excluded are developers choosing a framework only for personal learning, executives who approve money without evaluating technology, procurement specialists acting only on commercial terms, and contributors maintaining Django itself—although one person may occupy several of these audiences.
 
 ## Important subsegments
 
-- **Hands-on product technical leads:** close to code and delivery; commonly combine initiation, evaluation, influence, use, and consequence-bearing. Their horizon may be one product and the next few releases.
+- **Hands-on product technical leads:** close to code and delivery; may combine initiation, evaluation, influence, use, approval, and consequence-bearing.
 - **Solution/software architects:** translate business and non-functional requirements into a system design, compare options, document rationale, and align development, data, security, and operations stakeholders.
 - **Enterprise/platform architects:** evaluate consistency with approved languages, deployment platforms, identity, observability, data, and governance. They may set guardrails across many teams and act as evaluator, influencer, or blocker rather than user.
 - **CTO/VP-level technical decision-makers in smaller organizations:** combine technical, economic, staffing, and risk decisions. Their framework choice is tightly coupled to runway, hiring, and time to market.
-- **Leads of established Django estates:** optimize continuity, upgrades, standardization, and progressive decomposition. Their decision is not a clean-sheet framework contest; migration cost and accumulated expertise are major switching forces.
+- **Leads of established Django estates:** optimize continuity, upgrades, standardization, and progressive decomposition; migration cost and expertise make this unlike greenfield selection.
 - **Regulated or high-assurance architects:** give greater weight to security response, privacy, supply-chain evidence, auditability, support windows, and explicit risk acceptance.
 - **Workload specialists:** API/backend leads, full-stack/server-rendered product leads, data/AI-adjacent leads, and high-concurrency or low-latency architects have materially different fit questions. “Django evaluator” should not collapse these contexts.
 
@@ -57,7 +57,7 @@ Job hierarchy:
 
 ## Functional, emotional, and social dimensions
 
-**Functional (evidenced):** satisfy user and business requirements; balance security, reliability, performance efficiency, operational excellence, cost, and sustainability; preserve evolvability; enable teams to test, deploy, and operate; and manage dependency lifecycle. AWS's Well-Architected model formalizes these qualities, while government guidance adds reversibility, data control, standards, and total ownership ([AWS, 2024 framework](https://docs.aws.amazon.com/wellarchitected/2024-06-27/framework/definitions.html); [GOV.UK, updated 2024](https://www.gov.uk/service-manual/technology/choosing-technology-an-introduction)). **Direct evidence; High confidence.**
+**Functional (evidenced):** satisfy requirements; balance security, reliability, performance, operations, cost, and sustainability; preserve evolvability; enable team delivery; and manage dependencies. AWS formalizes these qualities, while government guidance adds reversibility, data control, standards, and total ownership ([AWS, 2024 framework](https://docs.aws.amazon.com/wellarchitected/2024-06-27/framework/definitions.html); [GOV.UK, updated 2024](https://www.gov.uk/service-manual/technology/choosing-technology-an-introduction)). **Direct evidence; High confidence.**
 
 **Emotional (hypotheses):** seek confidence under incomplete information; fear avoidable outages, security exposure, a costly reversal, or being held responsible for an inadequately tested standard; feel tension between delivery pressure and architectural stewardship. These are plausible consequences of uncertainty and technical debt evidence, but no reviewed study isolates Django-evaluating leads. **Inference; Low-to-Medium confidence.**
 
@@ -86,9 +86,9 @@ These are directional outcomes, not claimed benchmarks. DORA's standard delivery
 
 ## Current behaviour or status quo
 
-Leads commonly start from existing organizational standards, team skills, platform capabilities, prior decisions, and systems that must be integrated; GOV.UK explicitly instructs evaluators to understand that landscape before exploring options. They consult colleagues, documentation, engineering accounts, source repositories, release/security records, and then prototype uncertain areas. Architecture decisions are often collaborative and consultative rather than handed down by one architect. Mature organizations preserve rationale in ADRs; others rely on remembered precedent or informal approval.
+Leads commonly start from standards, skills, platforms, prior decisions, and integration constraints. They consult colleagues, documentation, engineering accounts, repositories, and release/security records, then prototype uncertain areas. Decisions are often collaborative; rationale may be preserved in ADRs or left as informal precedent.
 
-For an established estate, the status quo is usually incremental change: stay within supported versions, add packages or services around the application, improve deployment and observability, and isolate exceptional workloads. Meta's need for a custom Python runtime/JIT and memory work demonstrates that a very large Django deployment can persist while incurring specialized optimization investment; it is neither simple “Django scales” proof nor evidence that migration is required ([Meta Engineering, May 2, 2022](https://engineering.fb.com/2022/05/02/open-source/cinder-jits-instagram/); [August 15, 2023](https://engineering.fb.com/2023/08/15/developer-tools/immortal-objects-for-python-instagram-meta/)). **Direct case evidence; High confidence about Meta, Low generalizability.**
+Established estates usually evolve incrementally: supported-version upgrades, deployment/observability improvements, and isolation of exceptional workloads. Meta's custom Python runtime/JIT and memory work shows that a very large Django deployment can persist with specialized optimization investment; it proves neither effortless scaling nor a need to migrate ([Meta Engineering, May 2, 2022](https://engineering.fb.com/2022/05/02/open-source/cinder-jits-instagram/); [August 15, 2023](https://engineering.fb.com/2023/08/15/developer-tools/immortal-objects-for-python-instagram-meta/)). **Direct case evidence; High confidence about Meta, Low generalizability.**
 
 ## Pushes
 
@@ -107,7 +107,7 @@ LeadDev's 2024 survey of 1,100+ engineering leaders reports simultaneous pressur
 - Existing Python capability and the ability to share language, tooling, data/AI knowledge, or infrastructure.
 - A mature release process, LTS window, public security history, documentation, and open governance that make lifecycle risk inspectable.
 - Reuse of established models, business logic, operational practices, and organizational expertise.
-- A broad enough professional ecosystem to support common full-stack and API work: in the 2025 Django Developers Survey (responses collected November 2024–January 2025), 82% said they wrote Django professionally; 80% used it for full-stack development and 51% for REST APIs with DRF ([DSF/JetBrains, October 2025](https://lp.jetbrains.com/django-developer-survey-2025/)). This demonstrates respondent practice, not market share or hiring supply. **Direct survey evidence; Medium confidence.**
+- A broad enough professional ecosystem to support common full-stack and API work: in the 2025 Django Developers Survey (responses collected November 2024–January 2025), 82% said they wrote Django professionally; 80% used it for full-stack development and 51% for REST APIs with DRF ([DSF/JetBrains, October 31, 2025](https://lp.jetbrains.com/django-developer-survey-2025/)). This demonstrates respondent practice, not market share or hiring supply. **Direct survey evidence; Medium confidence.**
 - Visible production precedent can reduce perceived novelty risk, but case fit matters more than logo similarity.
 
 ## Anxieties
@@ -118,8 +118,8 @@ LeadDev's 2024 survey of 1,100+ engineering leaders reports simultaneous pressur
 - “Does the Python/Django talent pool match our location, compensation, and domain—and can general Python developers become effective maintainers?”
 - “Will a server-rendered/full-stack default fit our frontend and API strategy?”
 - “Will async boundaries add complexity or prevent a critical concurrency model?” Django 6.0 supports an async request stack and many async APIs, but transactions still do not work in async mode, synchronous middleware can require adaptation, and connection pooling needs deliberate treatment ([Django 6.0 async documentation, current](https://docs.djangoproject.com/en/6.0/topics/async/)). **Direct evidence; High confidence.**
-- “Will reviewers interpret a mature framework as outdated, or a newer option as irresponsible novelty?” This perception is plausible but unmeasured here. **Hypothesis; Low confidence.**
-- “If the decision fails, who carries the outage, migration, compliance, and reputational consequences?”
+- “Will reviewers interpret maturity as outdatedness, or novelty as irresponsibility?” This is plausible but unmeasured. **Hypothesis; Low confidence.**
+- “Who carries outage, migration, compliance, and reputation consequences?”
 
 ## Habits and inertia
 
@@ -149,15 +149,15 @@ The OpenSSF evaluation guide directly supports project-health criteria. AWS and 
 
 ## Main concerns
 
-**Practical concerns:** proving representative performance; production topology; database migrations and pooling; async/sync boundaries; API and frontend integration; dependency selection; observability; test strategy; upgrades; platform fit; talent; and ownership.
+**Practical concerns:** representative performance; production topology; database changes/pooling; async boundaries; API/frontend integration; dependency selection; observability; testing; upgrades; platform fit; talent; and ownership.
 
-**Legitimate limitations:** Python execution and memory efficiency can demand more infrastructure or specialized optimization at extreme scale; async Django still has explicit constraints; production security depends on correct deployment and application design, not framework defaults alone; official database support is finite; third-party package quality varies. Django itself warns that deployment must account for the web server, operating system, uploads, throttling, secrets, cache/database exposure, and design-level risks ([Django 6.0 security documentation](https://docs.djangoproject.com/en/6.0/topics/security/)). **Direct evidence; High confidence.**
+**Legitimate limitations:** extreme scale can demand specialized Python optimization; async Django retains constraints; security depends on deployment and design; database support is finite; package quality varies. Django itself calls out web-server/OS, upload, throttling, secret, cache/database, and design-level risks ([Django 6.0 security documentation](https://docs.djangoproject.com/en/6.0/topics/security/)). **Direct evidence; High confidence.**
 
-**Perceived risks requiring validation:** “monolith means teams cannot work independently,” “Python cannot scale,” “batteries-included always means faster,” or “a famous adopter proves our fit.” DORA shows architecture labels do not guarantee or preclude deploy/test independence. Meta demonstrates achievable scale with substantial custom investment. **Direct evidence against categorical claims; High confidence.**
+**Perceived risks requiring validation:** “monolith prevents independence,” “Python cannot scale,” “batteries always means faster,” or “a famous adopter proves our fit.” DORA rejects label-based conclusions; Meta demonstrates achievable scale with custom investment. **Direct evidence against categorical claims; High confidence.**
 
 **Misconceptions:** an LTS eliminates upgrade work; built-in controls make an application secure; framework popularity establishes local hiring feasibility; open source has zero ownership cost; or a framework decision alone determines system architecture.
 
-**Organizational objections:** an unapproved runtime; insufficient internal ownership; security or legal review gaps; divergence from a platform golden path; finance concerns about infrastructure or hiring; product concern about time-to-market; and operations concern about on-call burden.
+**Organizational objections:** unapproved runtime; weak ownership; security/legal gaps; platform divergence; infrastructure/hiring cost; time-to-market; and on-call burden.
 
 **Emotional resistance (hypothesis):** status attached to newer architectures, fear of defending an unfashionable choice, sunk-cost attachment to the incumbent, or fear of blame for change. **Low confidence; requires interviews.**
 
@@ -172,21 +172,21 @@ The OpenSSF evaluation guide directly supports project-health criteria. AWS and 
 
 ## Information needed to make progress
 
-1. User journeys, business horizon, regulatory context, risk appetite, data sensitivity, and explicit non-functional thresholds.
-2. Representative workload shapes: request mix, concurrency, latency percentiles, background work, streaming/long-lived connections, data size/growth, geographical and availability needs.
-3. A thin production-like prototype covering the riskiest integration, authentication/authorization, data access, deployment, telemetry, and failure path.
-4. Reference architecture and ownership model: boundaries, database, cache, task queue, API/frontend, static/media handling, secrets, scaling, health checks, backup/restore, and on-call.
-5. Lifecycle evidence: supported versions, deprecations, security policy/history, release cadence, package inventory, maintainer/activity/license signals, and upgrade rehearsal.
-6. Team evidence: current capability, onboarding time, code maintainability, local hiring data, training path, external support, and bus factor.
-7. Decision economics: delivery and operating cost under expected load, upgrade/security labor, opportunity cost, migration/exit cost, and the cost of alternatives already approved internally.
-8. A decision record listing context, options, functional/non-functional requirements, accepted choice, rationale, rejected options, consequences, owner, date, and revisit triggers—matching Google Cloud ADR guidance.
+1. User journeys, horizon, regulation, risk appetite, data sensitivity, and non-functional thresholds.
+2. Workload shape: request mix, concurrency, latency, background/streaming work, data growth, geography, and availability.
+3. A production-like prototype covering the riskiest integration, authorization, data access, deployment, telemetry, and failure path.
+4. Reference architecture and ownership: boundaries, data/cache/queue, API/frontend, secrets, scaling, health, recovery, and on-call.
+5. Lifecycle evidence: support/deprecations, security history, releases, package inventory, maintainer/license signals, and upgrade rehearsal.
+6. Team evidence: capability, onboarding, maintainability, local hiring, training/support, and bus factor.
+7. Economics: delivery/operation, upgrades/security, opportunity, migration/exit, and approved-alternative costs.
+8. An ADR with context, options, requirements, decision, rationale, consequences, owner, date, and revisit triggers.
 
 ## Trusted content formats
 
-- **Executable prototypes and benchmark/reliability results** using a disclosed workload: evaluation and risk reduction.
-- **Architecture diagrams plus ADRs:** expose context, boundaries, trade-offs, rejected options, and consequences to reviewers and future owners.
-- **Versioned official documentation, release notes, security advisories, support policy, and upgrade guides:** authoritative lifecycle and compatibility evidence.
-- **Firsthand engineering postmortems and architecture talks with constraints and numbers:** validation through analogous operational experience; logos or testimonials without context are weaker.
+- **Executable prototypes and workload-specific performance/reliability results:** evaluation and risk reduction.
+- **Architecture diagrams and ADRs:** context, boundaries, trade-offs, and consequences for reviewers and future owners.
+- **Versioned documentation, release notes, advisories, support policy, and upgrade guides:** lifecycle and compatibility evidence.
+- **Firsthand postmortems and architecture talks with constraints and numbers:** analogous validation; context-free testimonials are weaker.
 - **Source repositories, issue history, package metadata, test/CI evidence, OpenSSF-style assessments, and licenses:** due diligence on core and dependencies.
 - **Hands-on workshops or technical deep dives with maintainers/practitioners:** resolve specific unknowns and reveal operational tacit knowledge.
 - **Peer-reviewed empirical studies and survey datasets:** establish broader decision and engineering patterns, with sampling limits stated.
@@ -195,10 +195,10 @@ The PSF/JetBrains 2024 survey of more than 30,000 Python respondents found docum
 
 ## Discovery, evaluation, validation, and engagement channels
 
-- **Discovery:** professional peers, internal architecture/platform communities, engineering blogs, conferences/podcasts, search, Python.org, social links, and technology radars surface candidates. The behavioral job is expanding the option set; these channels should not be treated as approval evidence.
-- **Evaluation:** official Django/Python documentation, release notes, security/support policies, repositories/issue trackers, package metadata, ADRs, and substantive practitioner discussions answer fit and lifecycle questions. OpenSSF-style repository and maintenance checks turn visibility into due diligence.
-- **Validation:** prototypes, code spikes, production-like load/failure tests, security review, architecture review, direct peer references, and detailed production accounts test claims in context. GOV.UK's explicit prototyping guidance makes this the strongest evidenced progression channel.
-- **Ongoing engagement:** release/security announcement lists, documentation, issue tracker/GitHub, Django Forum or Discord for practitioner help, internal communities of practice, conferences/sprints, and vendor/consultant relationships support operation and renewal. Short-form social is mainly discovery/awareness; mailing lists and release notes are lifecycle monitoring; forums/Discord are problem solving and qualitative peer validation; GitHub is implementation/project-health evidence.
+- **Discovery:** peers, internal architecture communities, engineering blogs, events/podcasts, search, Python.org, social links, and radars expand the option set; they are not approval evidence.
+- **Evaluation:** official documentation, releases, security/support policies, repositories/issues, package metadata, ADRs, and practitioner discussions answer fit and lifecycle questions.
+- **Validation:** prototypes, production-like load/failure tests, security/architecture review, peer references, and detailed production accounts test claims in context. Prototyping has the strongest direct evidence.
+- **Ongoing engagement:** release/security lists, docs, GitHub/issues, Forum/Discord, internal communities, events/sprints, and consultants support operation. Social mainly discovers; releases monitor lifecycle; forums solve problems and provide qualitative validation; GitHub exposes implementation and project health.
 
 Evidence does not establish a universal channel order for technical leads. The claimed docs/release notes, forums/Discord, GitHub/issue tracker, mailing lists, conferences/sprints, podcasts, peer networks, and short-form social all have plausible distinct roles, but audience-specific conversion or trust data is missing.
 
@@ -233,7 +233,7 @@ These are audience progress actions, not proposed campaigns or assets:
 
 ## Overlaps with other audiences
 
-- **Existing professional Django developers:** hands-on leads share upgrade, best-practice, scaling, and expertise jobs, but have broader organizational accountability.
+- **Existing professional Django developers:** hands-on leads share upgrade, scaling, and expertise jobs but carry broader accountability.
 - **CTOs/engineering executives and economic buyers:** overlap in small firms; in larger firms executives approve risk/budget while architects evaluate.
 - **Platform engineering/SRE/DevOps:** overlap on deployment, reliability, observability, cost, and golden paths.
 - **Security, privacy, legal, and procurement reviewers:** overlap on supply-chain, compliance, license, and risk acceptance; they may block without being framework users.
@@ -244,14 +244,14 @@ These are audience progress actions, not proposed campaigns or assets:
 ## Possible segmentation problems
 
 - Title is a poor proxy for authority: “architect” can be advisory; “lead developer” can own the entire decision.
-- Company size alone does not determine process. Domain risk, team topology, existing standards, and procurement maturity matter more.
+- Company size alone does not determine process; domain risk, team topology, standards, and procurement maturity matter.
 - Greenfield evaluation and installed-estate stewardship have different switching forces and should not share one journey without qualification.
 - Framework choice, application architecture, deployment platform, and organizational topology are related but separate decisions. Treating “Django” as synonymous with “monolith” corrupts the segment.
 - Full-stack, API-first, event-driven/long-lived-connection, internal-tool, and data-adjacent workloads require different evidence.
 - Regulated and non-regulated contexts weight disclosure, evidence, and approval differently.
 - Global survey popularity cannot stand in for a local senior-talent market.
 - Technical leads can be users, evaluators, approvers, blockers, and consequence bearers simultaneously; a persona that assigns them only “decision-maker” loses critical jobs.
-- Evidence is skewed toward public-sector guidance, large technology companies, and self-selected developer/leader surveys; small private organizations and failed Django selections are underrepresented.
+- Evidence skews toward public-sector guidance, large technology companies, and self-selected surveys; small firms and failed Django selections are underrepresented.
 
 ## Existing-analysis claim audit
 
@@ -267,7 +267,7 @@ These are audience progress actions, not proposed campaigns or assets:
 | Finding | Source (title, publisher/author, date, URL) | Evidence type | Direct evidence or inference | Confidence | Research notes |
 |---|---|---|---|---|---|
 | Technology choices affect service quality and the team's ability to operate/iterate; reversibility, security, TCO, context, prototypes, and evolution matter. | [“Choosing technology: an introduction,” GOV.UK Service Manual, published May 23, 2016; updated October 15, 2024](https://www.gov.uk/service-manual/technology/choosing-technology-an-introduction) | Authoritative public-sector guidance | Direct | High | Strong decision-process evidence; public-sector context may add governance not present in startups. |
-| Technical architects work with teams/third parties and ensure robust, scalable, open, secure systems; service owners retain final quality responsibility. | [“What each role does in a service team,” GOV.UK Service Manual, published March 15, 2016; current role guidance](https://www.gov.uk/service-manual/the-team/service-manager.html) | Authoritative role guidance | Direct | High for role distinction; Medium cross-industry | Supports separating evaluator from approver/consequence owner. |
+| Technical architects work with teams/third parties and ensure robust, scalable, open, secure systems; service owners retain final quality responsibility. | [“What each role does in a service team,” GOV.UK Service Manual, published March 3, 2016; updated November 6, 2023](https://www.gov.uk/service-manual/the-team/what-each-role-does-in-service-team) | Authoritative role guidance | Direct | High for role distinction; Medium cross-industry | Supports separating evaluator from approver/consequence owner. |
 | Architecture review should cover operational excellence, security, reliability, performance efficiency, cost optimization, and sustainability. | [“Definitions,” AWS Well-Architected Framework, 2024 edition](https://docs.aws.amazon.com/wellarchitected/2024-06-27/framework/definitions.html) | Authoritative industry framework | Direct | High | Vendor-authored/cloud-oriented but broadly used quality model; not framework-specific. |
 | Open-source consumers should inspect maintenance, activity, maintainer diversity, releases, security response/LTS, tests, dependencies, license, and repository security. | [“Concise Guide for Evaluating Open Source Software,” OpenSSF Best Practices WG, March 28, 2025](https://best.openssf.org/Concise-Guide-for-Evaluating-Open-Source-Software.html) | Foundation/industry best-practice guidance | Direct | High | Directly relevant to Django core and each third-party package; checklist is guidance, not an adoption outcome study. |
 | NIST's SSDF ties secure development to business needs, risk tolerance, resources, cost, feasibility, and design-decision tracking. | [“Secure Software Development Framework,” NIST CSRC; SP 800-218 v1.1, February 2022](https://csrc.nist.gov/projects/ssdf) | Government standard/guidance | Direct | High | Supports security reviewer/risk-owner concerns, not a Django evaluation. |
@@ -279,7 +279,7 @@ These are audience progress actions, not proposed campaigns or assets:
 | Architectural decisions were the most important reported source of technical debt. | [“Measure It? Manage It? Ignore It? Software Practitioners and Technical Debt,” Ernst et al., ACM/CMU SEI, August 2015](https://www.sei.cmu.edu/library/measure-it-manage-it-ignore-it-software-practitioners-and-technical-debt/) | Survey of 1,831 practitioners plus interviews | Direct | Medium-to-High | Long-lived systems in three large organizations; persistent pattern but older. |
 | Meta reused Instagram's Django stack for speed and successful large-scale launch of Threads. | [“Threads: The inside story of Meta's newest social app,” Meta Engineering, September 7, 2023](https://engineering.fb.com/2023/09/07/culture/threads-inside-story-metas-newest-social-app/) | Firsthand adoption account | Direct | High for case; Low generalizability | Shows value of incumbent stack and organizational capability, not ordinary out-of-box scale. |
 | Very large Django/Python deployments can require specialized runtime, concurrency, and memory optimization. | [“Introducing Immortal Objects for Python,” Meta Engineering, August 15, 2023](https://engineering.fb.com/2023/08/15/developer-tools/immortal-objects-for-python-instagram-meta/); [“How the Cinder JIT's function inliner helps us optimize Instagram,” May 2, 2022](https://engineering.fb.com/2022/05/02/open-source/cinder-jits-instagram/) | Firsthand production engineering accounts | Direct | High for Meta; Low-to-Medium generalization | Corrects both “cannot scale” and “scales without special cost” narratives. |
-| Most surveyed Django respondents use it professionally and across full-stack/API work; async and cloud stacks are varied. | [“Django Developers Survey 2025 Results,” DSF/JetBrains, published October 2025; responses November 2024–January 2025](https://lp.jetbrains.com/django-developer-survey-2025/) | Self-selected developer survey, 4,600+ respondents | Direct | Medium | 82% professional, 80% full-stack, 51% REST/DRF; respondent usage is not market share or hiring availability. |
+| Most surveyed Django respondents use it professionally and across full-stack/API work; async and cloud stacks are varied. | [“Django Developers Survey 2025 Results,” DSF/JetBrains, published October 31, 2025; responses November 2024–January 2025](https://lp.jetbrains.com/django-developer-survey-2025/) | Self-selected developer survey, 4,600+ respondents | Direct | Medium | 82% professional, 80% full-stack, 51% REST/DRF; respondent usage is not market share or hiring availability. |
 | Django supports a broad async stack but retains constraints including no async transactions. | [“Asynchronous support,” Django 6.0 documentation, accessed July 18, 2026](https://docs.djangoproject.com/en/6.0/topics/async/) | Official technical documentation | Direct | High | Exact current limitation; must be tested against workload and package/middleware mix. |
 | Django's security depends on correct application design and production deployment as well as built-in features. | [“Security in Django,” Django 6.0 documentation, accessed July 18, 2026](https://docs.djangoproject.com/en/6.0/topics/security/); [“Deployment checklist,” development docs, accessed July 18, 2026](https://docs.djangoproject.com/en/dev/howto/deployment/checklist/) | Official technical documentation | Direct | High | Django-controlled but authoritative about its own capabilities and limits. |
 | Django has transparent supported-version/LTS windows and disclosed security releases. | [“Download Django,” DSF, live roadmap accessed July 18, 2026](https://www.djangoproject.com/download/); [“Archive of security issues,” Django documentation, accessed July 18, 2026](https://docs.djangoproject.com/en/dev/releases/security/) | Official project records | Direct | High | Evidence of process and transparency, not proof of zero vulnerability or adopter patch speed. |
