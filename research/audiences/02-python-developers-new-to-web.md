@@ -50,7 +50,7 @@ In full audience-progress form:
 
 - **Functional:** reach a modifiable user flow without re-solving common web concerns, then cross the local-to-production boundary. **[Direct facts plus inference; High confidence.]** Perceived value still requires testing.
 - **Emotional:** gain control, momentum, and confidence while reducing overwhelm, imposter feelings, and framework-choice regret. The CS Learning Curve survey reports imposter syndrome (35%), getting stuck (39%), field vastness (38%), and tech-stack overload (27%) as challenges. **[Direct evidence for CS learners; Medium-High confidence for this audience.]**
-- **Social — hypothesis:** be seen as someone who can ship and participate professionally. Pet projects were considered important to job search by 72%; 24% practiced through coding communities or study groups. **[Inference; Medium confidence.]**
+- **Social — hypothesis:** be seen as someone who can ship and participate professionally. Pet projects were considered important to job search by 67% (49% “fairly important” plus 18% “extremely important”); 24% practiced through coding communities or study groups. **[Inference; Medium confidence.]**
 - **Belonging — bounded evidence:** for underrepresented learners, a supportive workshop can create connections and permission to imagine a tech career. Django Girls' 2016–2017 alumni survey found 14% cited new friends/connections and 43% inspiration from meeting other women in tech, but the report explicitly warns of positive response bias. **[Direct self-report; Low-Medium confidence outside Django Girls alumni.]**
 
 ## Triggering situations
@@ -111,7 +111,7 @@ The status quo is not binary: remain with scripts/notebooks, use a dashboard too
 
 ## Anxieties
 
-- **Practical concern:** “Do I know enough HTML, CSS, JavaScript, SQL, HTTP, and command-line tooling to start?” MDN's curriculum research found learners lacked structured guidance on what to learn and when; the 2026 Django Forum records day-to-day feedback that total beginners feel overwhelmed by the official tutorial. **[Direct evidence; High confidence that prerequisite ambiguity exists.]**
+- **Practical concern:** “Do I know enough HTML, CSS, JavaScript, SQL, HTTP, and command-line tooling to start?” MDN's curriculum research found learners lacked structured guidance on what to learn and when; a 2024–2025 Django Forum thread shows an experienced Python developer struggling with the official tutorial despite Python competence. **[Direct evidence; Medium confidence that prerequisite ambiguity exists — MDN evidence is direct, the forum thread is a single qualitative signal, not a dated record of ongoing feedback.]**
 - **Practical concern:** “Which layer caused this error?” URL routing, browser caching, templates, static files, ORM behavior, settings, and servers can all produce unfamiliar symptoms. **[Direct qualitative evidence; High confidence.]**
 - **Perceived risk:** “Is a large framework too much before I understand the basics?” Legitimate tradeoff: integration reduces assembly but expands vocabulary and conventions. **[Direct guidance plus inference; High confidence.]**
 - **Perceived risk:** “Will this help me get hired?” Usage does not establish entry-level opportunity; HackerRank found junior/entry hiring grew much less than senior hiring. **[Direct general evidence; Medium confidence.]**
@@ -243,7 +243,7 @@ Only claims relevant to this audience are audited; donor, enterprise approver, e
 | Existing-analysis claim | Verdict | Audit |
 |---|---|---|
 | Early-career/self-taught/bootcamp/CS/career-changing developers evaluate a framework as a **career investment** | **Partially supported** | Job-switch learning and current-skill concerns are strong generally; Python-to-web and Django-specific returns are not isolated. |
-| They evaluate it as a **portfolio tool** | **Partially supported** | Projects are common (58%) and considered job-relevant (72%); “portfolio” and framework effects were not measured directly. |
+| They evaluate it as a **portfolio tool** | **Partially supported** | Projects are common (58%) and considered job-relevant (67%); “portfolio” and framework effects were not measured directly. |
 | They evaluate it as a **modern-app tool** | **Requires further research** | Current Django usage and full-stack/API work are established. “Modern” and evaluator perceptions are not. |
 | They evaluate it as a route to a **welcoming community** | **Partially supported** | Django Girls provides old, self-selected positive evidence; no representative newcomer study covers broad identities or regions. |
 | **Homepage** is a discovery channel | **Unsupported for discovery** | Existing Django users strongly prefer djangoproject.com for learning, but this does not establish that a homepage caused initial discovery. |
