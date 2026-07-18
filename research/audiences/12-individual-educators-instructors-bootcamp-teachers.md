@@ -37,7 +37,6 @@ These segments should not be collapsed. Learner age and prerequisites, course du
 | **Assess individual learning credibly** | Determine what a student can reason about, debug, and produce, including when AI or peers assisted | Trust the grade and preserve fairness | Maintain legitimacy with students and colleagues | Rubrics; process evidence; oral explanation; tests; AI policy | **Direct current evidence; High confidence that the job exists, Medium on best method.** |
 | **Keep the course runnable and current** | Prevent version, dependency, OS, editor, hosting, and stale-instruction failures | Avoid class-time embarrassment and firefighting | Be a reliable guide | Pin/test environments; monitor releases; maintain starter code; fallback plans | **Direct practice facts plus inference; High confidence.** |
 | **Support diverse starting points and belonging** | Give novices access without leaving experienced students idle or reinforcing stereotypes | Help learners feel safe asking for help | Build an inclusive learning community | Low-floor/high-ceiling tasks; structured collaboration; relevant contexts; accessible materials | **Direct general CS-education evidence; High confidence, with implementation effects context-dependent.** |
-| **Develop teaching-specific expertise** | Turn framework knowledge into knowledge of likely misconceptions, explanations, examples, and interventions | Grow confidence and reduce isolation | Belong to a community of educators | Rehearse lessons; share materials; observe learners; seek PD and peers | **Direct teacher evidence; High confidence.** |
 
 In full audience-progress form:
 
@@ -47,7 +46,8 @@ In full audience-progress form:
 4. **Assess individual learning credibly:** When AI, peers, and scaffolds may have contributed to an artifact, I want evidence of what each learner can reason about, debug, and produce, so I can assess learning fairly.
 5. **Keep the course runnable and current:** When versions, dependencies, operating systems, editors, or hosting change, I want tested environments and fallback paths, so I can preserve learning time and repeatable delivery.
 6. **Support diverse starting points and belonging:** When learners enter with different preparation, access, and confidence, I want low-floor, high-ceiling and inclusive participation structures, so I can support progress without reinforcing exclusion or leaving experienced learners idle.
-7. **Develop teaching-specific expertise:** When framework knowledge alone does not explain how students learn it, I want knowledge of likely misconceptions, explanations, examples, and interventions, so I can teach more effectively and with less isolation.
+
+Developing teaching-specific expertise is supporting work across course design, timely intervention, and course currentness rather than a separate important job. It includes rehearsing lessons, learning likely misconceptions, sharing materials, observing learners, and seeking professional-development peers. **Direct teacher evidence; High confidence.**
 
 ## Functional, emotional, and social dimensions
 
