@@ -212,7 +212,7 @@ Give.org's impact research also cautions against a single definition or cross-ch
 ## Trusted content formats
 
 - **Primary legal and governance records**—bylaws, policies, agreements, board minutes, election rules, and technical-governance documents—establish rights, boundaries, and independence.
-- **Public financial filings and reconciled annual financial/impact reporting** support spending and sustainability diligence. The DSF publishes an impact report and links its Form 990 filings.
+- **Public financial filings and reconciled annual financial/impact reporting** support spending and sustainability diligence. The DSF publishes an impact report; its Form 990 is a public filing obtainable via the IRS or third-party nonprofit databases, but the Foundation's own records page directs requesters to contact the secretary or board for the 990/1023 forms rather than linking them directly.
 - **Program-level work records** such as Fellow activity, releases, security process, grants, and funded-work reports connect money to activity without claiming individual-gift causality.
 - **Dependency inventories and internal engineering evidence** make a corporate stewardship case more credible than popularity statistics.
 - **A short internal proposal with relationship, target, amount, owner, risk, approval, and renewal test** is usable by corporate stakeholders; this is an inferred decision format, not a recommendation that Django produce it.
